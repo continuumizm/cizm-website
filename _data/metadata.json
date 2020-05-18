@@ -1,15 +1,14 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "continuumizm",
+  "url": "https://www.continuumizm.com/",
+  "description": "The beats are more like they are now than they've ever been before. // Sounds & stories from the dance music continuum, collected & connected by ChrisFizik",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "The beats are more like they are now than they've ever been before. // Sounds & stories from the dance music continuum, collected & connected by ChrisFizik",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "continuumizm"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "continuumizm"
   }
 }
