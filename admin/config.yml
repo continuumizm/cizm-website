@@ -12,6 +12,10 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
+      - { label: "Lead Image", name: "leadimage", widget: "image" }
+      - { label: "Lead", name: "lead", widget: "text"}
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Tags", name: "tags", widget: "list"}

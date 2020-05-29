@@ -1,43 +1,136 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ renderData.title or title or metadata.title }}</title>
-    <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
-    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+
+    <!-- Primary Meta Tags -->
+	<title>{{ renderData.title or title or metadata.title }}{% if subtitle %} - {{ subtitle }}{% endif %}</title>
+	<meta name="description" content="{{ renderData.description or description or metadata.description }}">
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{{ page.url | url | absoluteUrl(metadata.url) }}">
+	<meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
+	<meta property="og:description" content="{{ summary or metadata.description }}">
+	<meta property="og:image" content="{{ leadimage | url | absoluteUrl(metadata.url) }}">
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image">
+	<meta property="twitter:url" content="{{ page.url | url | absoluteUrl(metadata.url) }}">
+	<meta property="twitter:title" content="{{ renderData.title or title or metadata.title }}">
+	<meta property="twitter:description" content="{{ summary or metadata.description }}">
+	<meta property="twitter:image" content="{{ leadimage | url | absoluteUrl(metadata.url) }}">
+	
+	<!-- favicons -->
+	
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/favicons/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/favicons/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/favicons/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/favicons/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/assets/favicons/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/favicons/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/favicons/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/favicons/apple-touch-icon-152x152.png" />
+	<link rel="icon" type="image/png" href="/assets/favicons/favicon-196x196.png" sizes="196x196" />
+	<link rel="icon" type="image/png" href="/assets/favicons/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="/assets/favicons/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="/assets/favicons/favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="/assets/favicons/favicon-128.png" sizes="128x128" />
+	<meta name="application-name" content="&nbsp;"/>
+	<meta name="msapplication-TileColor" content="#FFFFFF" />
+	<meta name="msapplication-TileImage" content="/assets/favicons/mstile-144x144.png" />
+	<meta name="msapplication-square70x70logo" content="/assets/favicons/mstile-70x70.png" />
+	<meta name="msapplication-square150x150logo" content="/assets/favicons/mstile-150x150.png" />
+	<meta name="msapplication-wide310x150logo" content="/assets/favicons/mstile-310x150.png" />
+	<meta name="msapplication-square310x310logo" content="/assets/favicons/mstile-310x310.png" />
+	<meta name="theme-color" content="#111111">	
+	
+	<!-- other styles -->
+	
+	<link rel="stylesheet" href="{{ '/css/internal.css' | url }}">
+
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  </head>
-  <body>
-    <header>
-      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
 
-      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-      <ul class="nav">
-      {%- for entry in collections.all | eleventyNavigation %}
-        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
-      {%- endfor %}
-      </ul>
-    </header>
-
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-      {{ content | safe }}
-    </main>
-
-    <footer></footer>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-91644751-3"></script>
     <script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-91644751-3');
+    </script>
+    -->
+</head>
+  <body>
+    
+
+    <div id="sidebar">
+        <div style="
+            background: url({{ leadimage }}) center center;
+            background-size: cover;
+            position:sticky;
+            top:0;
+            min-height:100vh">
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light">
+      <a href="{{ '/' | url }}"><img src="/assets/continuumizm-logo-and-name-blackonwhite-x36px.svg" class="navbar-brand" alt="{{ metadata.title }} - Home"></a>
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav mr-auto"></ul>
+          <h5 class="my-2 my-lg-0"> 
+              <a href="https://twitter.com/continuumizm" title="Follow @continuumizm on Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>
+              </a> 
+              <a href="https://instagram.com/continuumizm" title="Follow @continuumizm on Instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i>
+              </a> 
+              <a href="https://soundcloud.com/continuumizm" title="Follow @continuumizm on Soundcloud" target="_blank"><i class="fa fa-soundcloud" aria-hidden="true"></i>
+              </a>
+          </h4>
+      </div>
+    </nav>
+
+	<main>
+        {{ content | safe }}
+  </main>
+		
+	
+	
+	<!-- footer? links? -->
+	
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <script>
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
           });
         }
-      });
-    }
     </script>
     <!-- Current page: {{ page.url | url }} -->
-  </body>
+    </body>
 </html>

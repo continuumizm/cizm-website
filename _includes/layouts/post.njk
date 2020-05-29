@@ -2,8 +2,31 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
+<article class="container">
+    <div class="row justify-content-md-center pt-5">
+        <div class="col" id="title-block">
+            <h4 id="title">{{ title }}<br><small class="text-muted">{{ subtitle }}</small></h4>
+            <small class="border-top pt-1">{{ date | readableDate }}</small>
+            <br>
+            <img src="/assets/continuumizm-logo-only-box-36x36-black-trans.svg" class="icon-cizm-box-black-trans pt-2">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col m-4">
+            <p class="lead">{{ lead }}</p><!-- TODO:make a nunjucks function to take a chunk of text and pass to a makelead function that spits back <p class="lead"> -->
+            <div id="story">
+                {{ content | safe }}
+            </div>
+        </div>
+    </div>
+</article>
 
-{{ content | safe }}
-
-<p><a href="{{ '/' | url }}">← Home</a></p>
+<footer class="container">
+    <div class="row border-top pt-1">
+          <div class="col">
+              <h5 id="tagline" class="w-75">{{ metadata.slogan }}</h5>
+              <p><a href="{{ '/' | url }}"><img src="/assets/continuumizm-logo-and-name-blackonwhite-x36px.svg" id="logo" alt="Continuumizm ← Home"></a></p>
+              <p>©<em>2020</em></p>
+          </div> 
+    </div>
+</footer>

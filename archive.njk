@@ -6,7 +6,16 @@ eleventyNavigation:
   order: 2
 ---
 
-<h1>Archive</h1>
-
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+<div class="container">
+  <div class="row m-3">
+    <div class="col-md">
+      <h3>Archive</h3>
+    </div>
+  </div>
+  <div class="row m-3">
+    <div class="col-md">
+      {% set postslist = collections.posts %}
+      {% include "postslist.njk" %}
+    </div>
+  </div>
+</div>

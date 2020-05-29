@@ -1,0 +1,150 @@
+@import url('https://rsms.me/inter/inter.css');
+html,body { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html,body { font-family: 'Inter var', sans-serif; }
+}
+
+html {
+    font-size:18px;
+    font-feature-settings: 'salt' 1,'ss03' 1;
+}
+body{
+    color: #111111;
+}
+
+nav.navbar {
+    background-color: #ffffff;
+}
+
+#artist-list, #tagline {
+    font-family: "Inter";
+    letter-spacing: -0.045em;
+}
+
+#artist-list {
+    padding-bottom:300px;
+}
+
+#tagline {
+    font-weight:700;
+}
+h5#tagline {
+    font-size: 20px;
+    letter-spacing: -0.017em;
+}
+
+a{
+    color:#455A64;
+}
+
+.icon-cizm-box-black-trans {
+    width: calc(1.2*1rem);
+    /* trying to match material color #cfd8dc */
+    filter: invert(93%) sepia(9%) saturate(175%) hue-rotate(153deg) brightness(93%) contrast(90%); 
+}
+
+#story {
+    letter-spacing:-0.014em;
+}
+
+footer {
+    margin-top:8vh;
+    margin-bottom:8vh;
+    font-size:11px;
+}
+footer img#logo{
+    height: calc(1.25*1rem);
+}
+
+@media (max-width: 576px) {
+    img.navbar-brand {
+        width: 50vw;
+    }
+}
+
+@media (min-width: 1266px) {
+    body {
+        display: flex!important;
+        flex-direction: row;
+    }
+    
+    nav.navbar {
+        width: 45%;
+    }
+    
+    #sidebar {
+        width: 45%;
+        min-height: 100vh;
+    }
+    main {
+        width: 55%;
+        min-height:100vh;
+    }
+
+    #title{
+        width:75%!important;
+    }
+
+    footer#info {
+        /* width: 55%; */
+        bottom:0;
+        right:0;
+        background-color: #ffffff;
+    }
+}
+
+/* other stuff lifted */
+/* Posts list */
+.postlist {
+    list-style: none;
+    padding: 0;
+  }
+  .postlist-item {
+    counter-increment: start-from -1;
+  }
+  /*
+  .postlist-item:before {
+    display: inline-block;
+    pointer-events: none;
+    content: "" counter(start-from, decimal-leading-zero) ". ";
+    line-height: 100%;
+    text-align: right;
+  }
+  */
+  
+  
+  .postlist-link {
+    display: inline-block;
+    text-decoration:underline;
+    padding: 0.25em 0.1875em; /* 4px 3px /16 */
+  }
+  .postlist-item-active .postlist-link {
+    font-weight: bold;
+  }
+  .tmpl-home .postlist-link {
+    font-size: 1.1875em; /* 19px /16 */
+    font-weight: 700;
+  }
+
+  .postlist-item-summary{
+      
+  }
+  
+  
+  /* Tags */
+  .tag {
+    display: inline-block;
+    vertical-align: text-top;
+    text-transform: uppercase;
+    font-size: 0.625em; /* 10px /16 */
+    padding: 2px 4px;
+    margin-left: 0.8em; /* 8px /10 */
+    background-color: var(--red);
+    color: var(--white);
+    border-radius: 0.25em; /* 3px /12 */
+    text-decoration: none;
+  }
+  a[href].tag,
+  a[href].tag:visited {
+    color: #fff;
+  }

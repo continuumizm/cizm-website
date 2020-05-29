@@ -2,6 +2,8 @@
   "title": "continuumizm",
   "url": "https://www.continuumizm.com/",
   "description": "The beats are more like they are now than they've ever been before. // Sounds & stories from the dance music continuum, collected & connected by ChrisFizik",
+  "slogan": "The beats are more like they are now than they've ever been before.",
+  "default-leadimage": "assets/cizm-ad-poster-1280x1920.jpg",
   "feed": {
     "subtitle": "The beats are more like they are now than they've ever been before. // Sounds & stories from the dance music continuum, collected & connected by ChrisFizik",
     "filename": "feed.xml",
