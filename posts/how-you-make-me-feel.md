@@ -22,26 +22,30 @@ Digging into the archives for a mix that exemplifies the journey thru influences
 
 Take a trip across a small part of history with some expert selections along with some brief commentary (sobering to hear his voice) from the great Marcus Intalex. RIP.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/830672599&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/continuumizm" title="continuumizm" target="_blank" style="color: #cccccc; text-decoration: none;">continuumizm</a> · <a href="https://soundcloud.com/continuumizm/marcus-intalex-21-years-mix" title="Marcus Intalex - 21 Years Mix" target="_blank" style="color: #cccccc; text-decoration: none;">Marcus Intalex - 21 Years Mix</a></div>
+##### Mix
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/830672599&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 
 
-##### Marcus Intalex - '21 Years Mix'
+**[Marcus Intalex - '21 Years Mix'](https://soundcloud.com/continuumizm/marcus-intalex-21-years-mix)**
 
-`Lark - Tendra`\
-`Vince Watson - Mystical Rhythm`\
-`Rhythm On The Loose - Break of Dawn`\
-`Shades of Rhythm - The Exorcist`\
-`Meat Beat Manifesto - Radio Babylon`\
-`Nightmares on Wax - Aftermath remix`\
-`LFO - Track 4`\
-`Satin Storm - Satin Storm`\
-`Blapps Posse - Bus' It`\
-`Mendoza - Get Raw`\
-`Nasty Habits - Let's Go`\
-`Origination - Make You Wanna Do Right`\
-`Low Key Movements - Ear Drums`\
-`FBD Project - The Core`\
-`Peshay - Sunray (Ruffage Crew Remix)`\
-`Inta Warriors - Vol 2`\
-`Dillinja - Deadly Deep Subs`
+```
+Lark - Tendra 
+Vince Watson - Mystical Rhythm 
+Rhythm On The Loose - Break of Dawn 
+Shades of Rhythm - The Exorcist 
+Meat Beat Manifesto - Radio Babylon 
+Nightmares on Wax - Aftermath remix 
+LFO - Track 4 
+Satin Storm - Satin Storm 
+Blapps Posse - Bus' It 
+Mendoza - Get Raw 
+Nasty Habits - Let's Go 
+Origination - Make You Wanna Do Right 
+Low Key Movements - Ear Drums 
+FBD Project - The Core 
+Peshay - Sunray (Ruffage Crew Remix) 
+Inta Warriors - Vol 2 
+Dillinja - Deadly Deep Subs
+```
