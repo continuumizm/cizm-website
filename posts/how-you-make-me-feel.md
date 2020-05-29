@@ -26,8 +26,6 @@ Take a trip across a small part of history with some expert selections along wit
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/830672599&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-
-
 **[Marcus Intalex - '21 Years Mix'](https://soundcloud.com/continuumizm/marcus-intalex-21-years-mix)**
 
 ```
@@ -49,3 +47,9 @@ Peshay - Sunray (Ruffage Crew Remix)
 Inta Warriors - Vol 2 
 Dillinja - Deadly Deep Subs
 ```
+
+
+
+##### The Music Foundation
+
+Fast-forward to today and the Marcus Intalex Music Foundation that is now operating to help nurture young future music talent is releasing tasty music too. They recently put out a release featuring longtime Intalex friend and collaborator, Calibre, [Foundation with Calibre](https://marcusintalexmusicfoundation.bandcamp.com/album/foundation-with-calibre). It has two unreleased tracks and also a recording of a very rare and candid interview with Calibre himself, done by none other than Fabio!
