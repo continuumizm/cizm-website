@@ -53,3 +53,5 @@ Dillinja - Deadly Deep Subs
 ##### The Music Foundation
 
 Fast-forward to today and the Marcus Intalex Music Foundation that is now operating to help nurture young future music talent is releasing tasty music too. They recently put out a release featuring longtime Intalex friend and collaborator, Calibre, [Foundation with Calibre](https://marcusintalexmusicfoundation.bandcamp.com/album/foundation-with-calibre). It has two unreleased tracks and also a recording of a very rare and candid interview with Calibre himself, done by none other than Fabio!
+
+> Photo: Marcus Intalex playing in Toronto, June 2011.
