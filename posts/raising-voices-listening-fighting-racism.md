@@ -13,7 +13,9 @@ lead: Hard to ignore the news of protests and impact in streets in the U.S. and
   closer to home. The scenes and music we enjoy have much connection to the
   black community and fighting against racism and for equality needs to be part
   of how we move forward.
-summary: "the msuic and scene we enjoy "
+summary: "As protests take place in the streets the fight against racism and for
+  equality by black and racialized communities can be brought closer to home in
+  dance music scenes who have so much roots in black music and culture. "
 ---
 The music has so much of its roots in black communities and the scenes founded on positive principles of unity. The myriad of genres of dance and rave music draw from black influences and culture. House and techno, originating in places like Chicago, Detroit and New York, grew from the marginalized underground scenes populated by gay and minority communities. The rhythms and flavour of jungle/drum'n'bass and beyond rose from Jamaican and black influences of soundsystem culture. We owe so much in our scenes and we have shared so much between all these communities thanks to that. A lot of the ethos of rave culture and hardcore from the start was it being grounded in unity and positivity and attracted so many people in places like the UK to it. I always remember guys like Grooverider and Fabio saying in those early days how they had come up in a divided and racially tense London climate and their initial reaction to burgeoning rave party environments was being blown away by the welcoming nature, blacks and whites throwing away differences for the love of the music. Dance music genres far and wide and inclusive scenes that developed and evolved around them owe so much to black culture and musical influence.
 
