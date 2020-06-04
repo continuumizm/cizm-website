@@ -6,14 +6,15 @@ templateClass: tmpl-post
     <div class="row justify-content-md-center pt-5">
         <div class="col" id="title-block">
             <h4 id="title">{{ title }}<br><small class="text-muted">{{ subtitle }}</small></h4>
-            <small class="border-top pt-1">{{ date | readableDate }}</small>
+            <small class="border-top pt-1" title="{{ date }}">{{ date | readableDate }}</small>
             <br>
             <img src="/assets/continuumizm-logo-only-box-36x36-black-trans.svg" class="icon-cizm-box-black-trans pt-2" alt="[on continuumizm]">
         </div>
     </div>
     <div class="row">
         <div class="col m-4">
-            <p class="lead">{{ lead }}</p><!-- TODO:make a nunjucks function to take a chunk of text and pass to a makelead function that spits back <p class="lead"> -->
+            <!-- TODO:make a nunjucks function to take a chunk of text and pass to a makelead function that spits back <p class="lead"> -->
+            {% if lead %}<p class="lead">{{ lead }}</p>{% endif %}
             <div id="story">
                 {{ content | safe }}
             </div>
