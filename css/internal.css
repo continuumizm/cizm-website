@@ -16,14 +16,6 @@ nav.navbar {
     background-color: #ffffff;
 }
 
-#artist-list, #tagline {
-    font-family: "Inter";
-    letter-spacing: -0.045em;
-}
-
-#artist-list {
-    padding-bottom:300px;
-}
 
 #tagline {
     font-weight:700;
