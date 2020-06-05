@@ -18,7 +18,7 @@ Dom's been on a quest the last number of years to dig more stuff out of the 'dun
 The flip of this is where things get fresher - a 'new' unreleased version of the tune! The dubplate culture of pressing one-off or limited copy acetates to test brand new material in clubs and raves defined the scene in the 90s and beyond. The competition to have the freshest beats out there meant as soon as an idea was playable (and sometimes just barely), getting a copy pressed and into the hands of a major dj was the next essential step. Dom has released an earlier version of *Can't Punish Me* from 1998. It features some different sounds and arrangements. I still prefer the refined, fuller sound of the eventual official release but it's neat to hear what is basically a remix of a tune that is known as a classic now.  Check it out and pick it up from [Dom's bandcamp](http://domandroland.bandcamp.com/album/cant-punish-me-98-dubplate-version-brand-new):
 
 
-<div class="embed-responsive embed-responsive-1by1">
+<div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" style="width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1316965753/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless></iframe>
 </div>
 
