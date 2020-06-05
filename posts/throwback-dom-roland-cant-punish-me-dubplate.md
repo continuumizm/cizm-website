@@ -19,7 +19,7 @@ The flip of this is where things get fresher - a 'new' unreleased version of the
 
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" style="width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1316965753/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless></iframe>
+  <iframe class="embed-responsive-item" src="https://bandcamp.com/EmbeddedPlayer/album=1316965753/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless></iframe>
 </div>
 
 A related sidenote is Dom's recent foray into memorabilia! Probably at the same as digging up lost dubplates, he found a large collection of old sampler 'floppy disks' from many, many productions from back in the day. With a number of popular classic tracks, Can't Punish Me included, the disks represent the sort of raw, laborious times that were a golden era of creativity for many producers. Packaged up as a collectible there were a ton of DNB heads ready to pick up the unique item. Hats of to Dom for thinking of the idea. I'm sure we'll see some other legendary producers digging up other collectibles of the culture soon enough. 💾
