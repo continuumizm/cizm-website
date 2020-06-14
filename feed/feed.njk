@@ -13,15 +13,17 @@ eleventyExcludeFromCollections: true
 	<id>{{ metadata.feed.id }}</id>
 	<author>
 		<name>{{ metadata.author.name }}</name>
+		<email>{{ metadata.author.email }}</email>
 	</author>
 	{%- for post in collections.posts %}
 	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
 	<entry>
-		<title>{{ post.data.title }}</title>
+		<title>{{ post.data.title }} {{ post.data.subtitle }}</title>
 		<link href="{{ absolutePostUrl }}"/>
 		<updated>{{ post.date | rssDate }}</updated>
 		<id>{{ absolutePostUrl }}</id>
-		<content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+		<content type="html">{% if post.data.lead %}{{ post.data.lead | htmlToAbsoluteUrls(absolutePostUrl) }}{% endif %} {{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+		<summary>{{ post.data.summary }}</summary>
 	</entry>
 	{%- endfor %}
 </feed>
