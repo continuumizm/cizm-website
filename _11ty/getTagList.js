@@ -11,6 +11,8 @@ module.exports = function(collection) {
           case "nav":
           case "post":
           case "posts":
+          case "categories":
+          case "category":
             return false;
         }
 

@@ -1,0 +1,37 @@
+---
+pagination:
+  data: categories
+  size: 1
+  alias: category
+  filter:
+      - all
+      - nav
+      - post
+      - posts
+      - tagList
+  addAllPagesToCollections: true
+layout: layouts/base.njk
+eleventyComputed:
+  title: "{{ category.title }}"
+  summary: "{{ category.summary }}"
+leadimage: /assets/cizm-ad-poster-1280x1920.jpg
+permalink: /category/{{ category.slug }}/
+---
+<div class="container">
+    <div class="row pt-5 mx-3">
+          <div class="col">
+              <h2>{{ category.title }}</h2>
+              
+              <p><img src="/assets/continuumizm-logo-only-box-36x36-black-trans.svg" class="icon-cizm-box-black-trans" alt="[continuumizm]"></p>
+          </div> 
+    </div>
+</div>
+
+<div class="container">
+  <div class="row m-3">
+    <div class="col-md">
+      {% set postslist = collections.cats[ category.slug ] %}
+      {% include "postslist.njk" %}
+    </div>
+  </div>
+</div>

@@ -35,6 +35,21 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
+  
+  eleventyConfig.addCollection("cats", function(collectionApi) {
+    let setofposts ={};
+    collectionApi.getAllSorted().forEach(function(item) {
+      if(item.data["category"]) {
+        if( !setofposts[item.data["category"]] ) {
+          setofposts[item.data["category"]] = [];
+        }
+        setofposts[item.data["category"]].push(item);
+      }
+    });
+    return setofposts;
+  });
+  
+
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");

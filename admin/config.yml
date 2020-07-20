@@ -19,4 +19,5 @@ collections:
       - { label: "Lead", name: "lead", widget: "text", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Category", name: "category", widget: "select", options: ["stories","sounds"] }
       - { label: "Tags", name: "tags", widget: "list", required: false }
