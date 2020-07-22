@@ -8,7 +8,9 @@ templateClass: tmpl-post
             <h4 id="title">{{ title }}<br><small class="text-muted">{{ subtitle }}</small></h4>
             <small class="border-top pt-1" title="{{ date }}">{{ date | readableDate }}</small>
             <br>
-            <img src="/assets/continuumizm-logo-only-box-36x36-black-trans.svg" class="icon-cizm-box-black-trans pt-2" alt="[on continuumizm]">
+            <p class="pt-1">
+                <img src="/assets/continuumizm-logo-only-box-36x36-black-trans.svg" class="icon-cizm-box-black-trans" alt="[on continuumizm]"> <small class="icon-cizm-box-black-trans text-capitalize">{{ category }}</small>
+            </p>
         </div>
     </div>
     <div class="row">
