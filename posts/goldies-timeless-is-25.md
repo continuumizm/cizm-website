@@ -20,6 +20,10 @@ The album's place in history and connection to the culture of the city and beyon
 
 <img class="img-fluid" src="/img/goldie-heritage-orchestra-timeless-live-21-june-2014-wceu-london_144-01-1920x1080-continuumizm-comp.jpg" alt="audience on their feet, Goldie &amp; The Heritage Orchestra present Timeless Live, Southbank Centre, London, 21 June 2014." title="audience on their feet, Goldie &amp; The Heritage Orchestra present Timeless Live, Southbank Centre, London, 21 June 2014.">
 
+##### Celebrating the 25-year
+
 Goldie & London/FFRR (the label the album was released on thanks to the wise A&R work of Mr. Pete Tong) will be releasing some behind-the-scenes content and stuff over next while to celebrate. <https://goldietimeless.com>
+
+##### Martyn's Book
 
 Something interesting related to this I noted a few months back was that Martyn, dnb/bass/dance artist and 3024 record label head, mentioned he has been working on a side project writing a book about the creation of *Timeless*. As an entry into the book series called *33 1/3* that focuses on popular music albums with a unique place in history its sure to be a cool look from someone who is passionate about the music and anything noting the significance of certain music history is right up the Continuumizm alley. Slated to be published in September!
