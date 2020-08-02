@@ -14,7 +14,7 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Publish Date", name: "date", widget: "datetime", pickerUtc: true }
       - { label: "Lead Image", name: "leadimage", widget: "image", required: false }
       - { label: "Lead", name: "lead", widget: "text", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
