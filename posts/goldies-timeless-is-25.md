@@ -22,7 +22,7 @@ The album's place in history and connection to the culture of the city and beyon
 
 ##### Celebrating the 25-year
 
-Goldie & London/FFRR (the label the album was released on thanks to the wise A&R work of Mr. Pete Tong) will be releasing some behind-the-scenes content and stuff over next while to celebrate. <https://goldietimeless.com>
+Goldie & London/FFRR (the label the album was released on thanks to the wise A&R work of Mr. Pete Tong) will be releasing some behind-the-scenes content and a remastered version I suppose over next while to celebrate. ➡<https://goldietimeless.com>
 
 ##### Martyn's Book
 
