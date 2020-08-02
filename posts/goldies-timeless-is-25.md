@@ -4,7 +4,7 @@ title: Goldie's Timeless is 25
 subtitle: Orchestra Realization Was Its Natural Next Level
 date: 2020-08-02T03:30:00.000Z
 leadimage: /img/goldie-heritage-orchestra-timeless-live-21-june-2014-wceu-london_144-01-1920x1080-continuumizm-comp.jpg
-lead: Goldie's debut album "Timeless" marks 25 years since it's release July
+lead: Goldie's debut album *Timeless* marks 25 years since it's release July
   31st 1995. Already a much-lauded part of DNB and dance music history, with its
   instrumentation, strings and elaborate arrangements, it seemed destined for
   something more.
