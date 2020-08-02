@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Goldie's Timeless is 25
-subtitle: Orchestra Realization was its Natural Next Level
+subtitle: Orchestra Realization Was Its Natural Next Level
 date: 2020-08-02T19:10:11.897Z
 leadimage: /img/goldie-heritage-orchestra-timeless-live-21-june-2014-wceu-london_144-01-1920x1080-continuumizm-comp.jpg
 lead: Already a much-lauded part of DNB and dance music history, Goldie's
