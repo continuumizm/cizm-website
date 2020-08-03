@@ -13,7 +13,7 @@ pagination:
     - cats
   addAllPagesToCollections: true
 layout: layouts/home.njk
-renderData:
+eleventyComputed:
   title: Tagged “{{ tag }}”
 permalink: /tags/{{ tag }}/
 ---

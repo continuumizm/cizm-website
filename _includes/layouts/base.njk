@@ -11,20 +11,20 @@
 
 
     <!-- Primary Meta Tags -->
-	<title>{{ renderData.title or title or metadata.title }}{% if subtitle %} - {{ subtitle }}{% endif %}</title>
-	<meta name="description" content="{{ summary or renderData.description or description or metadata.description }}">
+	<title>{{ title or metadata.title }}{% if subtitle %} - {{ subtitle }}{% endif %}</title>
+	<meta name="description" content="{{ summary or description or metadata.description }}">
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="{{ page.url | url | absoluteUrl(metadata.url) }}">
-	<meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
+	<meta property="og:title" content="{{ title or metadata.title }}">
 	<meta property="og:description" content="{{ summary or metadata.description }}">
 	<meta property="og:image" content="{{ leadimage | url | absoluteUrl(metadata.url) }}">
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image">
 	<meta property="twitter:url" content="{{ page.url | url | absoluteUrl(metadata.url) }}">
-	<meta property="twitter:title" content="{{ renderData.title or title or metadata.title }}">
+	<meta property="twitter:title" content="{{ title or metadata.title }}">
 	<meta property="twitter:description" content="{{ summary or metadata.description }}">
 	<meta property="twitter:image" content="{{ leadimage | url | absoluteUrl(metadata.url) }}">
 	
