@@ -18,7 +18,7 @@ Working with the Heritage Orchestra, the album found its natural next level. I w
 
 The album's place in history and connection to the culture of the city and beyond could be felt. The audience was on its feet for most of the performance, unified in admiration for the music and the man himself. Its meaning and place in people's hearts showed in the cheers and even teary eyes as the epic journey of the familiar pieces of the album played out in front of us in a new but very fitting way. It was emotional.
 
-<img class="img-fluid" src="/img/goldie-heritage-orchestra-timeless-live-21-june-2014-wceu-london_144-01-1920x1080-continuumizm-comp.jpg" alt="audience on their feet, Goldie &amp; The Heritage Orchestra present Timeless Live, Southbank Centre, London, 21 June 2014. Photo by chrisfizik" title="audience on their feet, Goldie &amp; The Heritage Orchestra present Timeless Live, Southbank Centre, London, 21 June 2014.">
+<img class="img-fluid" src="/img/goldie-heritage-orchestra-timeless-live-21-june-2014-wceu-london_144-01-1920x1080-continuumizm-comp.jpg" loading="lazy" width="1920" height="1080" alt="audience on their feet, Goldie &amp; The Heritage Orchestra present Timeless Live, Southbank Centre, London, 21 June 2014. Photo by chrisfizik" title="audience on their feet, Goldie &amp; The Heritage Orchestra present Timeless Live, Southbank Centre, London, 21 June 2014.">
 
 ##### Celebrating the 25-year
 
