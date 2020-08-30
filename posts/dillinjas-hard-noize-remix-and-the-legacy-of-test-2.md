@@ -5,10 +5,10 @@ subtitle: ""
 date: 2020-08-30T21:11:40.139Z
 leadimage: /img/test-recordings-sleeve-front-magnetstudio-test2edit-effect.jpg
 lead: After 'testing' the dub for awhile Dillinja has finally released the Break
-  remix of a notable tune from his storied catalog called *Hard Noize*. The
-  second Test Recordings release came with mystery and confusion in 1998 but
-  presented a new Valve sound and set the course for Dillinja dancefloor
-  dominance that would follow for the next number of years.
+  remix of a notable tune from his storied catalog called Hard Noize. The second
+  Test Recordings release came with mystery and confusion in 1998 but presented
+  a new Valve sound and set the course for Dillinja dancefloor dominance that
+  would follow for the next number of years.
 summary: The Break remix of Hard Noize re-establishes the legacy of the new
   sound Dillinja unleashed in 1998 whose Test 2 release is remembered for its
   mystery and confusion.
@@ -16,7 +16,11 @@ category: sounds
 tags:
   - dnb
 ---
-Already a renown producer from the earlier days of jungle with distinct jump up and atmospheric sounds and then establishing himself as key 'bass scientist' with Metalheadz releases in the years following, Dillinja continued to experiment and progress his style further in the late 90s. By 1997, even with their own label Valve Recordings to release on, Dillinja and Lemon D needed another outlet for a rapidly evolving sound and so Test Recordings was born. It's hallmark release came on the AA side of the second release Test 2 titled *Hard Noize*.
+Already a renowned producer from the earlier days of jungle with distinct jump up and atmospheric sounds and establishing himself as key 'bass scientist' with Metalheadz releases in the years following Dillinja continued to experiment and progress his style further in the late 90s in the ever-changing jungle/drum'n'bass scene. By 1997, even with their own label Valve Recordings to release on, Dillinja and Lemon D needed another outlet for a rapidly evolving sound and so Test Recordings was born. It's hallmark release came on the AA side of the second release Test 2 titled *Hard Noize*.
+
+<div class="embed-responsive embed-responsive-16by9" style="max-height:208px;">
+  <iframe class="embed-responsive-item" style="max-height:208px;" src="https://bandcamp.com/EmbeddedPlayer/album=3968273796/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=130500020/transparent=true/" seamless></iframe>
+</div>
 
 Things that stood out about this one was the tune itself and also the mystery and confusion around the release!
 
@@ -25,7 +29,3 @@ The sound on Test 2 had a fresh drum'n'bass style and would go on to become very
 The releases didn't say who they were by so before it became established Dillinja was behind it the average listener would be immediately disadvantaged and would be asking those in the know. Then for this particular release there was both a *mispress* and a *mislabeling* that happened! The stickers being on the wrong side caused DJs and trainspotters to ID the songs incorrectly, and the change in sounds that started with the first Test release added to the lack of clarity. Then adding to the confusion, a mispress happened and another tune altogether was put on some of the vinyl pressings. Shops would write on the sleeves that a copy contained a different tune than other pressings. People bringing their new 12" purchase home would play the tune and only realize when seeing tracklists on other DJ mixes or internet descriptions that their record wasn't the same. The internet rumours spread about a rare, exclusive Dillinja track - a valuable commodity when having fresh tunes from a big producer that no one else had could make your DJ set. That track came to be known as '*Accurist*' and was never released on any other thing officially but it also shared some of the style of the other tracks on Test 2 but wasn't a strong as Hard Noize.
 
 After stepping back from releasing on Valve or Test, it's nice to see now the track revived in a new remix from Break on a new Valve release. Break is a good candidate to work on the classic and his own meticulous drum programming style and patterns do justice to the original *Hard Noize* tune. Overall being a big fan of all the Dillinja productions over Valve's busy run in the first part of the 2000s I'm happy about the re-emergence of the label bringing the legacy of Test 2 to new ears and soundsystems.
-
-<div class="embed-responsive embed-responsive-16by9" style="max-height:208px;">
-  <iframe class="embed-responsive-item" style="max-height:208px;" src="https://bandcamp.com/EmbeddedPlayer/album=3968273796/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=130500020/transparent=true/" seamless></iframe>
-</div>
