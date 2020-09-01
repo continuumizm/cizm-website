@@ -33,7 +33,7 @@ Recently while enjoying his latest radio mix creation, I reminisced about some o
   <iframe class="embed-responsive-item" style="max-height:166px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/885400093&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" seamless></iframe>
 </div>  
 
-Just thought that was a funny random find that I don't think anyone has talked about or heard in years, if at all. The subject matter is a bit curious too as it references the divide and/or difficulty in genre-naming that was a topic around the time of its release, when really most settled on jungle-drum'n'bass or one of either interchangably. This connects to Shy FX's central M.O. - it's not about the genre names and definitions but the core ingredients - beats, bass and vibes coming together - that drives his continuing quest for the culture.
+Just thought that was a funny random find that I don't think anyone has talked about or heard in years, if at all. The subject matter is a bit curious too as it references the divide and/or difficulty in genre-naming that was a topic around the time of its release, when really most settled on jungle-drum'n'bass or one of either interchangeably. This connects to Shy FX's central M.O. - it's not about the genre names and definitions but the core ingredients - beats, bass and vibes coming together - that drives his continuing quest for the culture.
 
 
 
