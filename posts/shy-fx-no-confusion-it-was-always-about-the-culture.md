@@ -34,3 +34,7 @@ Recently while enjoying his latest radio mix creation, I reminisced about some o
 </div>  
 
 Just thought that was a funny random find that I don't think anyone has talked about or heard in years, if at all. The subject matter is a bit curious too as it references the divide and/or difficulty in genre-naming that was a topic around the time of its release, when really most settled on jungle-drum'n'bass or one of either interchangably. This connects to Shy FX's central M.O. - it's not about the genre names and definitions but the core ingredients - beats, bass and vibes coming together - that drives his continuing quest for the culture.
+
+
+
+> Photo: Shy FX playing @ Switch, 9th June 2006, Ministry of Sound, London
