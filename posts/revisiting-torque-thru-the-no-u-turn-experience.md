@@ -33,6 +33,8 @@ tags:
   - muzik magazine
   - ed rush
 ---
+<a href="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg"><img alt="Torque LP, magazine ad, 1997. 'Torque':The No U-Turn Album. Ed Rush -> Nico -> Trace -> Fierce. Unleashed!" src="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg" title="Torque LP, magazine ad, 1997." class="img-fluid"></a>
+
 <figure class="figure float-right col-sm-4">
   <img src="/img/ed-rush-skylab-metalheadz-HHVde-scan-69432-comp.jpg" class="figure-img img-fluid" alt="Ed Rush 'Skylab'">
   <p class="text-secondary text-left small" style="font-size:0.7rem;">Ed Rush's techstep sound was embraced by other labels like Metalheadz at the same time. The cover of 'Skylab' (METH024) shows a Headz logo over a satellite image of Detroit (upside down?). Never realized what it was all these years! Just assumed it was a shot of London or something. But the visionary design of Magnet Studio on Headz releases at the time ties in Ed Rush's interest in connecting the sounds back to the original Detroit Techno blueprint. An approach he would continue to promote with other new producers emerging from No U-Turn like Optical. The duo would go on only a year later to break further ground with a more electronic funk/techno influenced techstep sound on their Virus Recordings imprint and the album Wormhole to massive acclaim.</p>
@@ -53,7 +55,6 @@ Check out *The No U-Turn Experience* set from 7th February 1997, a snapshot of t
   <iframe class="embed-responsive-item" style="max-height:166px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/167749972&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" seamless></iframe>
 </div>  
 
-<a href="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg"><img alt="Torque LP, magazine ad, 1997. 'Torque':The No U-Turn Album. Ed Rush -> Nico -> Trace -> Fierce. Unleashed!" src="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg" title="Torque LP, magazine ad, 1997." class="img-fluid"></a>
 
-> Cover Image: Ed Rush, 'One Step Beyond', Muzik Magazine, August 1996.
+<small class="text-secondary">Cover Image: Ed Rush, 'One Step Beyond', Muzik Magazine, August 1996.</small>
 
