@@ -16,7 +16,7 @@ templateClass: tmpl-post
     <div class="row">
         <div class="col m-4">
             <!-- TODO:make a nunjucks function to take a chunk of text and pass to a makelead function that spits back <p class="lead"> -->
-            {% if lead %}<p class="lead">{{ lead }}</p>{% endif %}
+            {% if lead %}<p class="lead">{{ lead | safe }}</p>{% endif %}
             <div id="story">
                 {{ content | safe }}
             </div>
