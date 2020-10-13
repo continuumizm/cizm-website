@@ -53,7 +53,7 @@ Check out *The No U-Turn Experience* set from 7th February 1997, a snapshot of t
   <iframe class="embed-responsive-item" style="max-height:166px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/167749972&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" seamless></iframe>
 </div>  
 
-<a href="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg"><img alt="Torque LP, magazine ad, 1997. 'Torque':The No U-Turn Album. Ed Rush -> Nico -> Trace -> Fierce. Unleashed!" src="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg" title="Torque LP, magazine ad, 1997." class="col-sm-6"></a>
+<a href="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg"><img alt="Torque LP, magazine ad, 1997. 'Torque':The No U-Turn Album. Ed Rush -> Nico -> Trace -> Fierce. Unleashed!" src="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg" title="Torque LP, magazine ad, 1997." class="img-fluid"></a>
 
 > Cover Image: Ed Rush, 'One Step Beyond', Muzik Magazine, August 1996.
 
