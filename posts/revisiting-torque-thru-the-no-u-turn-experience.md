@@ -42,12 +42,12 @@ The Torque LP presented the hardest, darkest techstep around bringing the No U-T
   <p class="text-secondary text-left small" style="font-size:0.7rem;">Ed Rush's techstep sound was embraced by other labels like Metalheadz at the same time. The cover of 'Skylab' (METH024) shows a Headz logo over a satellite image of Detroit (upside down?). Never realized what it was all these years! Just assumed it was a shot of London or something. But the visionary design of Magnet Studio on Headz releases at the time ties in Ed Rush's interest in connecting the sounds back to the original Detroit Techno blueprint. An approach he would continue to promote with other new producers emerging from No U-Turn like Optical. The duo would go on only a year later to break further ground with a more electronic funk/techno influenced techstep sound on their Virus Recordings imprint and the album Wormhole to massive acclaim.</p>
 </figure> 
 
-<blockquote class="blockquote">
+**To get the full feel for *Torque* was to hear bits in the mix.** Hearing the sounds and some of the standout tracks from the compilation blended with their cutting edge contemporaries was the best way to get the true vibe. Ed Rush & Trace did a B2B guest mix with MC Navigator on the BBC Radio 1 *One In The Jungle* show right before the album was released called *The No U-Turn Experience*. The NUT sound on display to the world, the mix showcases more than No U-Turn tracks including similar artists pushing the new progressive sound like Dillinja, Doc Scott, Boymerang and other releases of Ed Rush, Trace & friends on labels like Prototype. 
+
+<blockquote class="blockquote m-4">
   <h5 class="mb-0">"As a label, No U-Turn operate from the very core of the UK's hardest, darkest, blackest beats. …Listen closely and you'll hear the futuristic disorder of Ridley Scott, William Gibson and Mary Shelley brought startlingly into the present"</h5>
   <p class="blockquote-footer">Torque album review, <cite title="Source">Muzik Magazine, March 1997.</cite></p>
 </blockquote>
-
-**To get the full feel for *Torque* was to hear bits in the mix.** Hearing the sounds and some of the standout tracks from the compilation blended with their cutting edge contemporaries was the best way to get the true vibe. Ed Rush & Trace did a B2B guest mix with MC Navigator on the BBC Radio 1 *One In The Jungle* show right before the album was released called *The No U-Turn Experience*. The NUT sound on display to the world, the mix showcases more than No U-Turn tracks including similar artists pushing the new progressive sound like Dillinja, Doc Scott, Boymerang and other releases of Ed Rush, Trace & friends on labels like Prototype. 
 
 Check out *The No U-Turn Experience* set from 7th February 1997, a snapshot of techstep experimentation and new avenues:
 
