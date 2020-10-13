@@ -43,14 +43,15 @@ The Torque LP presented the hardest, darkest techstep around bringing the No U-T
 <div class="row">
 <div class="col-sm-6"><blockquote class="blockquote">
   <h5 class="mb-0">"As a label, No U-Turn operate from the very core of the UK's hardest, darkest, blackest beats. …Listen closely and you'll hear the futuristic disorder of Ridley Scott, William Gibson and Mary Shelley brought startlingly into the present"</h5>
-  <p class="blockquote-footer">–Torque album review, <cite title="Source">Muzik Magazine, March 1997.</cite></p>
+  <p class="blockquote-footer">Torque album review, <cite title="Source">Muzik Magazine, March 1997.</cite></p>
 </blockquote></div>
-<div class="col-sm-6"><a href="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg"><img alt="Torque LP, magazine ad, 1997. 'Torque':The No U-Turn Album. Ed Rush -> Nico -> Trace -> Fierce. Unleashed!" src="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg" title="Torque LP, magazine ad, 1997."></a></div>
 </div>
+
+<div class="col-sm-6"><a href="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg"><img alt="Torque LP, magazine ad, 1997. 'Torque':The No U-Turn Album. Ed Rush -> Nico -> Trace -> Fierce. Unleashed!" src="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg" title="Torque LP, magazine ad, 1997."></a></div>
 
 **To get the full feel for *Torque* was to hear bits in the mix.** Hearing the sounds and some of the standout tracks from the compilation blended with their cutting edge contemporaries was the best way to get the true vibe. Ed Rush & Trace did a B2B guest mix with MC Navigator on the BBC Radio 1 *One In The Jungle* show right before the album was released called *The No U-Turn Experience*. The NUT sound on display to the world, the mix showcases more than No U-Turn tracks including similar artists pushing the new progressive sound like Dillinja, Doc Scott, Boymerang and other releases of Ed Rush, Trace & friends on labels like Prototype. 
 
-Check it out here from 7th February 1997, a snapshot of techstep experimentation and new avenues:
+Check out *The No U-Turn Experience* set from 7th February 1997, a snapshot of techstep experimentation and new avenues:
 
 <div class="embed-responsive embed-responsive-16by9" style="max-height:208px;">
   <iframe class="embed-responsive-item" style="max-height:166px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/167749972&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" seamless></iframe>
