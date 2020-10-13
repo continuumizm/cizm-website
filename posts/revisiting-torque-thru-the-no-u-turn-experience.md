@@ -8,11 +8,11 @@ leadimage: /img/ed-rush_one-step-beyond_page-059_muzik015_august_1996-andrew-cat
 lead: No U-Turn, the drum & bass label and studio started by Nico Sykes,
   developed progressively darker jungle sounds in the mid-90s that evolved into
   some of the darkest techstep that came to the fore on the label's landmark
-  compilation 'Torque' in 1997.{% raw %}<span class="float-right col-sm-4"><img
+  compilation 'Torque' in 1997.<span class="float-right col-sm-4"><img
   src="/img/nico-groovers_on_manoeuveurs-no_u-turn-page-045-muzik022_march_1997-colin-hawkins-1005x1350-continuumizm-comp.jpg"
   class="mx-3 img-fluid" title="Nico, 'Groovers on Manoeuvures', Muzik Magazine,
   March 1997." alt="Nico, 'Groovers on Manoeuvures', Muzik Magazine, March
-  1997."></span>{% endraw %}
+  1997."></span>
 summary: 'To get the full feel for Torque was to hear bits in the mix. Ed Rush &
   Trace played a "No U-Turn Experience" mix on One In The Jungle BBC Radio 1 in
   1997 before the landmark compilation LP came out. A big deal: the NUT techstep
