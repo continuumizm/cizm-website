@@ -17,11 +17,13 @@ tags:
   - ibiza
   - muzik magazine
 ---
-A cassette tape (yep, those heady days) came with an issue of Muzik Magazine in 1998 that had a slice of his renowned Balearic vibes. It became my go-to "post-rave" mix for awhile. You know the kind - something to throw on after a party when you finally make it home at some daytime hour, bringing the BPMs down, as you head towards bed for recovery. This tape was a perfect length megamix, soundtracking the drift into many a deep slumber. Hearing it now is triggering echoes from my REM subconscious. RIP José. <span class="embed-responsive embed-responsive-16by9" style="max-height:208px;">
+<div class="embed-responsive embed-responsive-16by9" style="max-height:208px;">
   <iframe class="embed-responsive-item" style="max-height:166px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/915051328&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" seamless></iframe>
-</span> 
+</div> 
 
 <figure class="figure float-right col-sm-4 bg-light text-dark">
-  <img src="/img/jose-padilla-muzik-ibiza-chill-out-tape-writeup-528x1486-muzik037_june_1998-continuumizm.jpg" class="figure-img img-fluid" alt="Photo with caption: Jose Padilla, and the tape he made earlier. Introductory text in Muzik Magazine, June 1998.">
+  <a href="/img/jose-padilla-muzik-ibiza-chill-out-tape-writeup-528x1486-muzik037_june_1998-continuumizm.jpg"><img src="/img/jose-padilla-muzik-ibiza-chill-out-tape-writeup-528x1486-muzik037_june_1998-continuumizm.jpg" class="figure-img img-fluid" alt="Photo with caption: Jose Padilla, and the tape he made earlier. Introductory text in Muzik Magazine, June 1998."></a>
 <p class="text-secondary text-left small" style="font-size:0.7rem;">Introduction to the mix, Muzik Magazine, June 1998.
 </figure>
+
+A cassette tape (yep, those heady days) came with an issue of Muzik Magazine in 1998 that had a slice of his renowned Balearic vibes. It became my go-to "post-rave" mix for awhile. You know the kind - something to throw on after a party when you finally make it home at some daytime hour, bringing the BPMs down, as you head towards bed for recovery. This tape was a perfect length megamix, soundtracking the drift into many a deep slumber. Hearing it now is triggering echoes from my REM subconscious. RIP José. 
