@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jose Padilla - The Ibiza Chill Out mix
+title: José Padilla - The Ibiza Chill Out mix
 subtitle: Remembering the godfather of chillout with my go-to post-rave mixtape
 date: 2020-10-21T21:15:28.947Z
 leadimage: /img/jose-padilla-muzik-ibiza-chill-out-tape-cover-june_1998-861x1350.jpg
