@@ -13,20 +13,21 @@ lead: <span class="float-right col-sm-4"><a
   beginnings as a temporary exhibition to getting public support for the station
   & and being awarded an FM license, building the studio, and then covid launch
   delays –it's been a journey for hard-working heads like Ollie and the team.
-summary: SWU.FM a new Bristol radio station is on the air officially & legally
-  on the FM dial and draws from rich underground dance music artists and
-  soundsystem culture roots of the community for an exciting launch.
+summary: SWU.FM a new FM radio station in Bristol is on the air officially &
+  legally after a long evolution and looks to draw from rich pool of underground
+  dance music artists and soundsystem culture roots of the community for an
+  exciting launch.
 category: stories
 tags:
   - bristol
   - radio
 ---
 <div class="container">
-<div class="row">
-<div class="col-sm-4"><img src="/img/swufm-nov2015-temporary transmission promo.jpg" class="img-thumbnail img-fluid"></div>
+<div class="row justify-content-md-center">
+<div class="col-sm-4"><img src="/img/swufm-nov2015-temporary-popup-transmission-promo.jpg" class="img-thumbnail img-fluid"></div>
 <div class="col-sm-4"><img src="/img/swufm-studio-build-14aug2020-ollie303-EfY2av_X0AAkXfo.jpg" class="img-thumbnail img-fluid"></div>
 </div>
-<div class="row">
+<div class="row justify-content-md-center">
 <div class="col-sm-8"><img src="/img/swufm-promo-posters-bristol-giveupart-121477819_831639037580383_3785476573110854135_n.jpg" class="img-fluid img-thumbnail"></div>
 </div>
 </div>
@@ -36,4 +37,4 @@ The lineup of shows includes Bristol local talent and legends. A great mix of da
 
 Get locked in!
 
-[SWU.FM](https://www.swu.fm/) worldwide stream or on the local dial - 103.7 FM!
+Visit 🔗[SWU.FM](https://www.swu.fm/) for the worldwide stream or tune the local dial - 103.7 FM!
