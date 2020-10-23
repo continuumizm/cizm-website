@@ -3,6 +3,7 @@ layout: post
 title: SWU FM Goes On Air
 subtitle: Bristol radio station launches on FM radio officially & legally
 date: 2020-10-23T21:14:36.703Z
+leadimage: /img/swufm-antenna-radio-tower-purplelightedit-2025x1350-crop-1080x1350.jpg
 lead: <span class="float-right col-sm-4"><a
   href="/img/swufm-yesyes-fm-awarded-poster-giveupart-2018mar29.jpg"
   title="SWU.FM Yes Yes, FM license award announcement poster"><img
