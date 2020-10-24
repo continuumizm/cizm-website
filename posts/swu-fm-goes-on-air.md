@@ -35,7 +35,7 @@ tags:
 <div class="col-sm-8"><a href="/img/swufm-promo-posters-bristol-giveupart-121477819_831639037580383_3785476573110854135_n.jpg"><img src="/img/swufm-promo-posters-bristol-giveupart-121477819_831639037580383_3785476573110854135_n.jpg" class="img-fluid img-thumbnail"></a></div>
 </div>
 </div>
-With a pirate radio ethos, rich underground culture and pool of artists in Bristol to draw from, and even Rinse FM design sensibilities by design studio Give Up Art, exciting SWU.FM times lie ahead connecting & sharing in the scene together. I have always said radio is a great way to keep in touch with the scene and we could all use some more positive frequencies uniting us right now. Congrats all. 
+With a pirate radio ethos, rich underground culture and pool of artists in Bristol to draw from, and even Rinse FM design sensibilities by design studio Give Up Art, exciting SWU.FM times lie ahead connecting & sharing in the scene together. I have always said radio is a great way to keep in touch with the scene when not partying and we could all use some more positive frequencies uniting us right now. Congrats all. 
 
 The lineup of shows includes Bristol local talent and legends alike. A great mix of dance and urban styles will be on display from dubstep, uk garage, jungle/drum'n'bass, reggae, house and techno, all very much connected to the rave & dance heritage and soundsystem culture heritage of the city. A few that will be dropping in for regular shows include Addison Groove, DJ Die/GutterFunk, Om Unit, Jakes, DJ Dazee, and Sam Binga! 
 
