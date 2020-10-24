@@ -15,7 +15,7 @@ lead: <span class="float-right col-sm-4"><a
   and being awarded an FM license, building the studio, and covid launch delays
   –it's been a journey for hard-working heads like Ollie and the team for sure.
   In this social media age we were able to have some documentation and glimpses
-  of the development and passion at work from the ground up - and now it's here!
+  of the development and passion at work from the ground up which was nice!
 summary: SWU.FM a new radio station in Bristol is on the air officially &
   legally after a long building process and looks to draw from the rich pool of
   underground dance music artists and soundsystem culture roots of the community
@@ -42,7 +42,7 @@ With a pirate radio ethos, rich underground culture and pool of artists in Brist
 
 The lineup of shows includes Bristol local talent and legends alike. A great mix of dance and urban styles will be on display from dubstep, uk garage, jungle/drum'n'bass, reggae, house and techno, all very much connected to the rave & dance heritage and soundsystem culture heritage of the city. A few that will be dropping in for regular shows include Addison Groove, DJ Die/GutterFunk, Om Unit, Jakes, DJ Dazee, and Sam Binga! 
 
-<div class="float-right col-sm-4"><img class="img-fluid" src="/img/swufm-launch-shows-collage-addison-groove-dj-die-jakes-dazee-sam-binga-om-unit-x6-900x1350-comp.jpg" alt="Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee"></div>
+<div class="float-right col-sm-4"><img class="img-fluid" src="/img/swufm-launch-shows-collage-addison-groove-dj-die-jakes-dazee-sam-binga-om-unit-x6-900x1350-comp.jpg" alt="Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee" title="Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee"></div>
 
 **Get locked in**
 
