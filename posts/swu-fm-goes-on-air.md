@@ -4,7 +4,7 @@ title: SWU FM Goes On Air in Bristol
 subtitle: Station launches on FM radio officially & legally
 date: 2020-10-23T21:14:36.703Z
 leadimage: /img/swufm-antenna-radio-tower-purplelightedit-2025x1350-crop-1080x1350.jpg
-lead: <span class="float-right col-sm-2"><a
+lead: <span class="float-right col-sm-4"><a
   href="/img/swufm-yesyes-fm-awarded-poster-giveupart-2018mar29.jpg"
   title="SWU.FM Yes Yes, FM license award announcement poster"><img
   src="/img/swufm-yesyes-fm-awarded-poster-giveupart-2018mar29.jpg" class="mx-3
@@ -12,11 +12,10 @@ lead: <span class="float-right col-sm-2"><a
   2018."></a></span><b>No longer a test transmission!</b> After years of work,
   SWU.FM starts broadcasting & beaming to the community & world today. From
   beginnings as a temporary exhibition to getting public support for the station
-  & and being awarded an FM license, building the studio, and then covid launch
-  delays –it's been a journey for hard-working heads like Ollie and the team for
-  sure. It's been nice in this social media age to have some documentation and
-  see the development and passion at work from the ground up - and now it's
-  here!
+  and being awarded an FM license, building the studio, and covid launch delays
+  –it's been a journey for hard-working heads like Ollie and the team for sure.
+  In this social media age we were able to have some documentation and glimpses
+  of the development and passion at work from the ground up - and now it's here!
 summary: SWU.FM a new radio station in Bristol is on the air officially &
   legally after a long building process and looks to draw from the rich pool of
   underground dance music artists and soundsystem culture roots of the community
@@ -39,14 +38,14 @@ tags:
 </div>
 </div>
 
-With a pirate radio ethos, rich underground culture and pool of artists in Bristol to draw from, and even Rinse FM design sensibilities by design studio Give Up Art, exciting SWU.FM times lie ahead connecting & sharing in the scene together. I have always said radio is a great way to keep in touch with the scene when not partying and we could all use some more positive frequencies uniting us right now. Congrats all. 
+With a pirate radio ethos, rich underground culture and pool of artists in Bristol to draw from, and even Rinse FM design sensibilities by Give Up Art, exciting SWU.FM times lie ahead connecting & sharing in the scene together. I have always said radio is a great way to keep in touch with the scene when not partying and we could all use some more positive frequencies uniting us right now. Congrats all. 
 
 The lineup of shows includes Bristol local talent and legends alike. A great mix of dance and urban styles will be on display from dubstep, uk garage, jungle/drum'n'bass, reggae, house and techno, all very much connected to the rave & dance heritage and soundsystem culture heritage of the city. A few that will be dropping in for regular shows include Addison Groove, DJ Die/GutterFunk, Om Unit, Jakes, DJ Dazee, and Sam Binga! 
 
-<div class="float-right col-sm-"4><img class="img-fluid" src="/img/swufm-launch-shows-collage-addison-groove-dj-die-jakes-dazee-sam-binga-om-unit-x6-900x1350-comp.jpg" alt="Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee"></div>
+<div class="float-right col-sm-4"><img class="img-fluid" src="/img/swufm-launch-shows-collage-addison-groove-dj-die-jakes-dazee-sam-binga-om-unit-x6-900x1350-comp.jpg" alt="Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee"></div>
 
-*Get locked in*
+**Get locked in**
 
 Visit 🔗[SWU.FM](https://www.swu.fm/) for the worldwide stream or tune the local dial - 103.7 FM!
 
-Cover photo: SWU.FM aerial high atop the station tower overlooking Bristol.
+<small class="text-secondary">Cover photo: SWU FM aerial high atop the station tower overlooking Bristol.</small>
