@@ -43,7 +43,7 @@ With a pirate radio ethos, rich underground culture and pool of artists in Brist
 
 The lineup of shows includes Bristol local talent and legends alike. A great mix of dance and urban styles will be on display from dubstep, uk garage, jungle/drum'n'bass, reggae, house and techno, all very much connected to the rave & dance heritage and soundsystem culture heritage of the city. A few that will be dropping in for regular shows include Addison Groove, DJ Die/GutterFunk, Om Unit, Jakes, DJ Dazee, and Sam Binga! 
 
-![Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee](/img/swufm-launch-shows-collage-addison-groove-dj-die-jakes-dazee-sam-binga-om-unit-x6-900x1350-comp.jpg)
+<img class="col-sm-10 img-fluid" src="/img/swufm-launch-shows-collage-addison-groove-dj-die-jakes-dazee-sam-binga-om-unit-x6-900x1350-comp.jpg" alt="Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee">
 
 Get locked in!
 
