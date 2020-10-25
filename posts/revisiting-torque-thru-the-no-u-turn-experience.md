@@ -9,7 +9,7 @@ lead: <span class="float-right col-sm-4"><a
   href="/img/nico-groovers_on_manoeuveurs-no_u-turn-page-045-muzik022_march_1997-colin-hawkins-1005x1350-continuumizm-comp.jpg"
   title="Nico, 'Groovers on Manoeuvures', Muzik Magazine, March 1997."><img
   src="/img/nico-groovers_on_manoeuveurs-no_u-turn-page-045-muzik022_march_1997-colin-hawkins-1005x1350-continuumizm-comp.jpg"
-  class="mx-3 img-fluid" alt="Nico, 'Groovers on Manoeuvures', Muzik Magazine,
+  class="mx-3 img-fluid" loading="lazy" alt="Nico, 'Groovers on Manoeuvures', Muzik Magazine,
   March 1997."></a></span><b>No U-Turn</b>, the drum & bass label and studio
   started by Nico Sykes, developed progressively darker jungle sounds in the
   mid-90s that evolved into some of the darkest techstep that came to the fore
@@ -33,12 +33,12 @@ tags:
   - muzik magazine
   - ed rush
 ---
-<a href="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg"><img alt="Torque LP, magazine ad, 1997. 'Torque':The No U-Turn Album. Ed Rush -> Nico -> Trace -> Fierce. Unleashed!" src="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg" title="Torque LP, magazine ad, 1997." class="img-fluid col-sm-6 mx-auto d-block mb-4"></a>
+<a href="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg"><img alt="Torque LP, magazine ad, 1997. 'Torque':The No U-Turn Album. Ed Rush -> Nico -> Trace -> Fierce. Unleashed!" src="/img/no-u-turn-torque-album-magazine-ad-crop-1275x1350-comp.jpg" loading="lazy" title="Torque LP, magazine ad, 1997." class="img-fluid col-sm-6 mx-auto d-block mb-4"></a>
 
 The Torque LP presented the hardest, darkest techstep around bringing the No U-Turn ideas to the mainstream. The album is often cited as an alluring introduction to DnB at the time for some people, and even today being referenced as inspiration for producers looking to return to a more raw, techy sound.
 
 <figure class="figure float-right col-sm-4 bg-light text-dark">
-  <img src="/img/ed-rush-skylab-metalheadz-HHVde-scan-69432-comp.jpg" class="figure-img img-fluid" alt="Ed Rush 'Skylab'">
+  <img src="/img/ed-rush-skylab-metalheadz-HHVde-scan-69432-comp.jpg" class="figure-img img-fluid" loading="lazy" alt="Ed Rush 'Skylab'">
   <p class="text-secondary text-left small" style="font-size:0.7rem;">Ed Rush's techstep sound was embraced by other labels like Metalheadz at the same time. The cover of 'Skylab' (METH024) shows a Headz logo over a satellite image of Detroit (upside down?). Never realized what it was all these years! Just assumed it was a shot of London or something. But the visionary design of Magnet Studio on Headz releases at the time ties in Ed Rush's interest in connecting the sounds back to the original Detroit Techno blueprint. An approach he would continue to promote with other new producers emerging from No U-Turn like Optical. The duo would go on only a year later to break further ground with a more electronic funk/techno influenced techstep sound on their Virus Recordings imprint and the album Wormhole to massive acclaim.</p>
 </figure> 
 

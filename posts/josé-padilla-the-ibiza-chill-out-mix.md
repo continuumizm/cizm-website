@@ -22,7 +22,7 @@ tags:
 </div> 
 
 <figure class="figure float-right col-sm-4 bg-light text-dark">
-  <a href="/img/jose-padilla-muzik-ibiza-chill-out-tape-writeup-528x1486-muzik037_june_1998-continuumizm.jpg"><img src="/img/jose-padilla-muzik-ibiza-chill-out-tape-writeup-528x1486-muzik037_june_1998-continuumizm.jpg" class="figure-img img-fluid" alt="Photo with caption: Jose Padilla, and the tape he made earlier. Introductory text in Muzik Magazine, June 1998."></a>
+  <a href="/img/jose-padilla-muzik-ibiza-chill-out-tape-writeup-528x1486-muzik037_june_1998-continuumizm.jpg"><img src="/img/jose-padilla-muzik-ibiza-chill-out-tape-writeup-528x1486-muzik037_june_1998-continuumizm.jpg" class="figure-img img-fluid" loading="lazy" alt="Photo with caption: Jose Padilla, and the tape he made earlier. Introductory text in Muzik Magazine, June 1998."></a>
 <p class="text-secondary text-left small" style="font-size:0.7rem;">Introduction to the mix, Muzik Magazine, June 1998.
 </figure>
 

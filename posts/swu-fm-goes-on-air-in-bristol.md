@@ -8,7 +8,7 @@ lead: <span class="float-right col-sm-4"><a
   href="/img/swufm-yesyes-fm-awarded-poster-giveupart-2018mar29.jpg"
   title="SWU.FM Yes Yes, FM license award announcement poster"><img
   src="/img/swufm-yesyes-fm-awarded-poster-giveupart-2018mar29.jpg" class="mx-3
-  img-fluid" alt="FM license awarding public announcement poster by GiveUpArt,
+  img-fluid" loading="lazy" alt="FM license awarding public announcement poster by GiveUpArt,
   2018."></a></span><b>No longer a test transmission!</b> After years of work,
   SWU.FM starts broadcasting & beaming to the community & world today. From
   beginnings as a temporary exhibition to getting public support for the station
@@ -27,13 +27,13 @@ tags:
 ---
 <div class="container">
 <div class="row justify-content-md-center">
-<figure class="figure col-sm-4"><a href="/img/swufm-nov2015-temporary-popup-transmission-promo.jpg"><img src="/img/swufm-nov2015-temporary-popup-transmission-promo.jpg" class="figure-img img-fluid"></a>
+<figure class="figure col-sm-4"><a href="/img/swufm-nov2015-temporary-popup-transmission-promo.jpg"><img src="/img/swufm-nov2015-temporary-popup-transmission-promo.jpg" class="figure-img img-fluid" loading="lazy" alt="Posters promoting month-long pop-up radio station in 2016"></a>
 <figcaption class="figure-caption">"South West Underground" was a temporary exhibition pop-up radio station for a month in Bristol in 2016</figcaption></figure>
-<figure class="figure col-sm-4"><a href="/img/swufm-studio-build-14aug2020-ollie303-EfY2av_X0AAkXfo.jpg"><img src="/img/swufm-studio-build-14aug2020-ollie303-EfY2av_X0AAkXfo.jpg" class="figure-img img-fluid"></a>
+<figure class="figure col-sm-4"><a href="/img/swufm-studio-build-14aug2020-ollie303-EfY2av_X0AAkXfo.jpg"><img src="/img/swufm-studio-build-14aug2020-ollie303-EfY2av_X0AAkXfo.jpg" class="figure-img img-fluid" loading="lazy" alt="Main studio being built"></a>
 <figcaption class="figure-caption">Behind-the-scenes building the station facilities</figcaption></figure>
 </div>
 <div class="row justify-content-md-center">
-<figure class="figure col-sm-8"><a href="/img/swufm-promo-posters-bristol-giveupart-121477819_831639037580383_3785476573110854135_n.jpg"><img src="/img/swufm-promo-posters-bristol-giveupart-121477819_831639037580383_3785476573110854135_n.jpg" class="img-fluid figure-img"></a>
+<figure class="figure col-sm-8"><a href="/img/swufm-promo-posters-bristol-giveupart-121477819_831639037580383_3785476573110854135_n.jpg"><img src="/img/swufm-promo-posters-bristol-giveupart-121477819_831639037580383_3785476573110854135_n.jpg" class="img-fluid figure-img" loading="lazy" alt="Posters seen in Bristol promoting new FM frequency"></a>
 <figcaption class="figure-caption">Final promotion posters around the city with FM frequency designed by Give Up Art, 2020</figcaption></figure>
 </div>
 </div>
@@ -42,7 +42,7 @@ With a pirate radio ethos, rich underground culture and pool of artists in Brist
 
 The lineup of shows includes Bristol local talent and legends alike. A great mix of dance and urban styles will be on display from dubstep, uk garage, jungle/drum'n'bass, reggae, house and techno, all very much connected to the rave & dance heritage and soundsystem culture heritage of the city. A few that will be dropping in for regular shows include Addison Groove, DJ Die/GutterFunk, Om Unit, Jakes, DJ Dazee, and Sam Binga! 
 
-<div class="float-right col-sm-4"><img class="img-fluid" src="/img/swufm-launch-shows-collage-addison-groove-dj-die-jakes-dazee-sam-binga-om-unit-x6-900x1350-comp.jpg" alt="Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee" title="Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee"></div>
+<div class="float-right col-sm-4"><img class="img-fluid" src="/img/swufm-launch-shows-collage-addison-groove-dj-die-jakes-dazee-sam-binga-om-unit-x6-900x1350-comp.jpg" alt="Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee" title="Promo images for upcoming show hosts on SWU FM include Om Unit, Sam Binga, DJ Die/GutterFunk, Addison Groove, Jakes, and DJ Dazee" loading="lazy"></div>
 
 **Get locked in**
 
