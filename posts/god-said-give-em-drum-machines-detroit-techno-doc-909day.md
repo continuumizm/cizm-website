@@ -30,4 +30,4 @@ Check out the trailer:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LZ2_h3L7rqg" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-> Photo: GSGEDM film poster from a recent livestream supporting Black Lives Matter!
+<small class="text-secondary">Cover photo: God Said Give 'Em Drum Machines film poster from a recent livestream supporting Black Lives Matter!</small>

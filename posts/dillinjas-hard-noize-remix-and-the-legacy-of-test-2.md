@@ -29,3 +29,5 @@ For this particular release the mystery and confusion stacked up when there was 
 </div>
 
 After stepping back from releasing for many years now it's nice to see the track revived in a new remix from Break and on a new Valve release. Break is a good candidate to work on the classic and his own meticulous drum programming style and patterns do justice to the original *Hard Noize* tune. Overall being a big fan of all the Dillinja productions right thru Valve's busy run in the first half of the 2000s I'm happy about the re-emergence of the label and the legacy of Test 2 being brought to new ears and soundsystems.
+
+<small class="text-secondary">Cover image: Test Recordings record sleeve design by Magnet Studio.</small>
