@@ -13,10 +13,9 @@ lead: On November 9, 1989 the Berlin Wall came down and the lives of East and
   in. Men and women, straight and gay, from East and West Berlin, were coming
   together and the exciting new time of unification was also fostering an
   equally exciting new soundtrack - <strong>the sound of techno</strong>.
-summary: 9th November - 31 years since the fall of the Berlin Wall. 31 Jahre
-  Mauerfall. Nothing more fitting to mark the anniversary than this book, Der
-  Klang Der Familie, that connects Berlin, techno and the reunification time
-  into an essential read.
+summary: 31 years since the fall of the Berlin Wall. 31 Jahre Mauerfall. Nothing
+  more fitting to mark the anniversary than the book Der Klang Der Familie that
+  connects Berlin, techno and the reunification time into an essential read.
 category: stories
 tags:
   - techno
@@ -33,3 +32,5 @@ The book *Der Klang Der Familie* by Felix Denk and Sven von Thülen chronicles t
 I cannot say enough about *Der Klang Der Familie* which uses an oral history format to reveal tons of stories from interviews with many key players from the time. What started as a project to document the history of pivotal Berlin club Tresor soon branched out to encompass other influential parties and clubs like E-werk and UFO, Berlin techno music history and the common thread of their origin stories became clearly tied to the fall of the Wall. The book connects elements of underground dance music, rave & club culture and the greater societal and geopolitical changes in Germany and the world into a document of foundational culture. Essential read to say the least!
 
 *Der Klang Der Familie* (The Sound of Family) gets its title from a track released on Tresor Records in 1992 by 3Phase featuring Dr. Motte. The book has been translated from the original German into many languages including the very successful English edition which was released to coincide with the 25th anniversary of the fall of the Berlin Wall. Here we are at the 31st anniversary and I finally got myself a copy ;)
+
+<small class="text-secondary">Cover photo: English edition of Der Klang Der Familie book</small>
