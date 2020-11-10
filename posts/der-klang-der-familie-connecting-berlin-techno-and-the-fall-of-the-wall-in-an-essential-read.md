@@ -11,7 +11,7 @@ lead: On November 9, 1989 the Berlin Wall came down and the lives of East and
   free-moving neighbours, presented an opportunity for the youth of the day. A
   myriad of spaces became available to discover, explore, and yes, party in. Men
   and women, straight and gay, from East and West Berlin, were coming together
-  and the exciting new time of unification was also fostering an equally
+  in an exciting new time of unification which was also fostering an equally
   exciting new soundtrack - <b>the sound of techno</b>.
 summary: 31 years since the fall of the Berlin Wall. 31 Jahre Mauerfall. Nothing
   more fitting to mark the anniversary than the book Der Klang der Familie that
@@ -24,7 +24,7 @@ tags:
   - germany
   - detroit
 ---
-<figure class="figure float-right col-sm-6 bg-light text-dark">
+<figure class="figure float-right col-sm-6 pt-3 bg-light text-dark">
   <a href="/img/oberbaumbruecke-watergate-1013x1350-continuumizm-comp.jpg"><img src="/img/oberbaumbruecke-watergate-1013x1350-continuumizm-comp.jpg" class="figure-img img-fluid" loading="lazy" alt="Photo with caption: Oberbaumbrüke bridge, looking onto the River Spree, a Berlin landmark that was a pedestrian crossing point between East and West Berlin, right beside Watergate club, 2014, early dawn."></a>
 <p class="text-secondary text-left small" style="font-size:0.7rem;">Oberbaumbrüke bridge, looking onto the River Spree, a Berlin landmark that was a pedestrian crossing point between East and West Berlin, right beside Watergate club, early dawn, 2014.</p>
 </figure>
