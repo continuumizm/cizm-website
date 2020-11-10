@@ -24,7 +24,7 @@ tags:
   - book
 ---
 <figure class="figure float-right col-sm-6 bg-light text-dark">
-  <a href=""><img src="" class="figure-img img-fluid" loading="lazy" alt="Photo with caption: Oberbaumbrüke bridge, looking onto the River Spree, a Berlin landmark that was a pedestrian crossing point between East and West Berlin, right beside Watergate club, 2014, early dawn."></a>
+  <a href="/img/oberbaumbruecke-watergate-1013x1350-continuumizm-comp.jpg"><img src="/img/oberbaumbruecke-watergate-1013x1350-continuumizm-comp.jpg" class="figure-img img-fluid" loading="lazy" alt="Photo with caption: Oberbaumbrüke bridge, looking onto the River Spree, a Berlin landmark that was a pedestrian crossing point between East and West Berlin, right beside Watergate club, 2014, early dawn."></a>
 <p class="text-secondary text-left small" style="font-size:0.7rem;">Oberbaumbrüke bridge, looking onto the River Spree, a Berlin landmark that was a pedestrian crossing point between East and West Berlin, right beside Watergate club, early dawn, 2014.</p>
 </figure>
 
