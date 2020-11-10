@@ -24,9 +24,9 @@ tags:
   - germany
   - detroit
 ---
-<figure class="figure float-right col-sm-6 pt-3 bg-light text-dark">
+<figure class="figure float-right col-sm-6">
   <a href="/img/oberbaumbruecke-watergate-1013x1350-continuumizm-comp.jpg"><img src="/img/oberbaumbruecke-watergate-1013x1350-continuumizm-comp.jpg" class="figure-img img-fluid" loading="lazy" alt="Photo with caption: Oberbaumbrüke bridge, looking onto the River Spree, a Berlin landmark that was a pedestrian crossing point between East and West Berlin, right beside Watergate club, 2014, early dawn."></a>
-<p class="text-secondary text-left small" style="font-size:0.7rem;">Oberbaumbrüke bridge, looking onto the River Spree, a Berlin landmark that was a pedestrian crossing point between East and West Berlin, right beside Watergate club, early dawn, 2014.</p>
+<figcaption class="figure-caption">Oberbaumbrüke bridge, looking onto the River Spree, a Berlin landmark that was a pedestrian crossing point between East and West Berlin, right beside Watergate club, early dawn, 2014.</figcaption>
 </figure>
 
 The book *Der Klang der Familie* by Felix Denk and Sven von Thülen chronicles the fascinating development of music and culture that rapidly rose out of that time of change in Berlin and is a perfect read on the anniversary of the fall of the Berlin Wall, 31 years ago today. The immense impact of the event on Berlin and European society cannot be understated. But what is really interesting is the role the new and evolving musical movement of techno played in shaping a foundational cultural identity in Berlin. From its origins in Detroit, techno jumped across the ocean to a city newly reunified and open to form a sort of symbiotic relationship. The burgeoning scene continued the growth and spread around the world of the music and helped establish Berlin's place throughout the years as a major epicenter of the global scene.
