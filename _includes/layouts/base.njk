@@ -19,14 +19,14 @@
 	<meta property="og:url" content="{{ page.url | url | absoluteUrl(metadata.url) }}">
 	<meta property="og:title" content="{{ title or metadata.title }}">
 	<meta property="og:description" content="{{ summary or metadata.description }}">
-	<meta property="og:image" content="{{ leadimage | url | absoluteUrl(metadata.url) }}">
+	<meta property="og:image" content="{% if leadimage %}{{ leadimage | url | absoluteUrl(metadata.url) }}{% else %}{{ metadata.leadimage_default | url | absoluteUrl(metadata.url) }}{% endif %}">
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image">
 	<meta property="twitter:url" content="{{ page.url | url | absoluteUrl(metadata.url) }}">
 	<meta property="twitter:title" content="{{ title or metadata.title }}">
 	<meta property="twitter:description" content="{{ summary or metadata.description }}">
-	<meta property="twitter:image" content="{{ leadimage | url | absoluteUrl(metadata.url) }}">
+	<meta property="twitter:image" content="{% if leadimage %}{{ leadimage | url | absoluteUrl(metadata.url) }}{% else %}{{ metadata.leadimage_default | url | absoluteUrl(metadata.url) }}{% endif %}">
 	
 	<!-- favicons -->
 	
@@ -78,7 +78,7 @@
 
     <div id="sidebar">
         <div style="
-            background: url({% if leadimage %}{{ leadimage }}{% else %}/assets/cizm-ad-poster-1280x1920.jpg{% endif %}) center left;
+            background: url({% if leadimage %}{{ leadimage }}{% else %}{{metadata.leadimage_default}}{% endif %}) center left;
             background-size: cover;
             position:sticky;
             top:0;
