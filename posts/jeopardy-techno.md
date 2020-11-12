@@ -4,8 +4,8 @@ title: Jeopardy! Techno
 subtitle: Remembering Alex Trebek with a relevant clue from the gameshow's history
 date: 2020-11-12T18:30:02.235Z
 lead: <i>RIP Alex.</i>
-summary: A Jeopardy clue screen that referenced Detroit techno from the
-  gameshow's long history dug up in tribute to late host Alex Trebek.
+summary: A Jeopardy clue screen that referenced Detroit techno dug up from the
+  gameshow's long history in tribute to late host Alex Trebek.
 category: stories
 tags:
   - detroit
