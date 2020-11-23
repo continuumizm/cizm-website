@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Talkin' Headz: The Documentary That Put Metalheadz in Focus"
-subtitle: Rare Sunday Sessions video is the lost Blue Note chapter of the DnB doc
-date: 2020-11-23T04:36:17.743Z
+subtitle: Rare Sunday Sessions video is the lost Blue Note chapter of the drum & bass doc
+date: 2020-11-23T05:38:04.524Z
 leadimage: /img/talkin-headz-metalheadz-documentary-promo-poster-1998-continuumizm-comp.jpeg
 lead: "<em>Talkin' Headz: The Metalheadz Documentary</em> is a film that
   captures an exciting time around 1997-1998 when drum & bass had established
@@ -35,6 +35,7 @@ Check out this other vid to complete the viewing experience like it's 1998:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y1tXv4fPtmI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-You can find some copies of the Talkin' Headz documentary [online](https://www.youtube.com/watch?v=6jRTi8VtKM4) to stream with a quick search (or if you can find a VHS player to play your old tape!) 
+
+<p class="pt-4">You can find some copies of the *Talkin' Headz* documentary [online](https://www.youtube.com/watch?v=6jRTi8VtKM4) to stream with a quick search (or if you can find a VHS player to play your old tape!)</p>
 
 <small class="text-secondary">Cover photo: *Talkin' Headz* promo poster announcing the documentary's release in 1998.</small>
