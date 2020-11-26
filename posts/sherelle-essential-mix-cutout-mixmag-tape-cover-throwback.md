@@ -15,8 +15,8 @@ tags:
   - mixmag
   - design
 ---
-<figure class="figure col-sm-6 float-md-right>
-<a href="/img/sherelle-essential-mix-mixmag-cutout-tape-cover-continuumizm.jpg" title=""><img src="/img/sherelle-essential-mix-mixmag-cutout-tape-cover-continuumizm.jpg" class="figure-img img-fluid"></a>
+<figure class="figure col-sm-6 float-md-right">
+<a href="/img/sherelle-essential-mix-mixmag-cutout-tape-cover-continuumizm.jpg"><img src="/img/sherelle-essential-mix-mixmag-cutout-tape-cover-continuumizm.jpg" class="figure-img img-fluid" alt="Mixmag cutout tape cover designed for Sherelle's Essential Mix, Nov 2020 by continuumizm."></a>
 <figcaption class="figure-caption"><b>After the Broadcast:</b> throwback Mixmag cut-out cassette tape cover for Sherelle Essential Mix. <a href="https://twitter.com/iamsherelle/status/1328784626442244098" class="text-dark" title="Tweet from Sherelle Nov. 17, 2020: 'Backing this Mixmag inspired artwork by continuumizm'">Sherelle-approved!</a>
 </figure>
 
