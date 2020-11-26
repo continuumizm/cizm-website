@@ -22,6 +22,6 @@ tags:
 
 In the 90s after recording your own tape off the radio you'd wait for Mixmag to publish their next issue with a handy cut-out cover with tracklist for the best Essential Mixes. We've got streams & djs kindly IDing their dub selections these days, but made a throwback cover for fun anyway!
 
-The mix itself is an upfront selection and journey thru range of styles and BPMs she represents. From strength to strength. Congrats to Sherelle whose energy and quality we definitely appreciate around here.
+The mix itself is an upfront selection and journey thru range of styles and BPMs she represents. Congrats to Sherelle whose energy and quality we definitely appreciate around here. From strength to strength.
 
 🎵Listen back: <https://www.bbc.co.uk/programmes/m000p90g>
