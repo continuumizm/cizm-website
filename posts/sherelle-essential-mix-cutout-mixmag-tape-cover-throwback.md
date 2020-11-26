@@ -8,7 +8,7 @@ lead: Sherelle smashed it with a new mix for Pete's Tong's immutable Essential
 summary: Sherelle nailed her debut Essential Mix on BBC Radio 1 and it reminded
   of in the 90s after recording off the broadcast you'd wait for Mixmag Magazine
   to publish a cut-out cover with tracklist. Made one for fun!
-category: sounds
+category: stories
 tags:
   - essentialmix
   - tapes
