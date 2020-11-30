@@ -35,7 +35,6 @@ Check it out to complete the viewing experience like it's 1998!
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y1tXv4fPtmI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-<p class="pt-4">You can find some copies of the *Talkin' Headz* documentary [online](https://www.youtube.com/watch?v=6jRTi8VtKM4) to stream with a quick search (or if you can find a VHS player to play your old tape!)</p>
+<p class="pt-4">You can find some copies of the <em>Talkin' Headz</em> documentary <a href="https://www.youtube.com/watch?v=6jRTi8VtKM4">online</a> to stream with a quick search (or if you can find a VHS player to play your old tape!)</p>
 
 <small class="text-secondary">Cover photo: *Talkin' Headz* promo poster announcing the documentary's release in 1998.</small>
