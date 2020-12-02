@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doc Scott Essential Mix Tape Cover
-subtitle: A throwback cut-out Mixmag design to see all the dubplates in the tracklist
+subtitle: Throwback Mixmag design to see all the dubplates in the tracklist
 date: 2020-11-29T05:48:00.000Z
 leadimage: /img/docscott-essential-mix-2020-11-28-mixmag-cutout-tape-cover-1280x-continuumizm.jpg
 lead: Doc Scott, famed drum & bass dj and producer, laid down his first Radio 1
