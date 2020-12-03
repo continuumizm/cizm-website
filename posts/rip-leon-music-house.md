@@ -20,6 +20,10 @@ tags:
 ---
 Jungle/dnb names like Grooverider, DJ Hype, Goldie, DJ Ron, Brockie, Bailey, DJ Die and on and on expressed sadness online. Others like reggae don Sir David Rodigan and grime's Slimzee also mourned showing Leon's impact and importance not limited to just jungle or London. All the soundsystem culture connected scenes, history and generations. Continuumizm.
 
-**More than just a master of his craft. A foundational element. Helping to foster community. Part of the culture. RIP Leon Music House.**
+**More than just a master of his craft. \
+A foundational element. \
+Helping to foster community. \
+Part of the culture. \
+RIP Leon Music House.**
 
 <small class="text-secondary">Cover Photo: Leon working in Music House photo by Georgina Drumzofthesouth, appeared in Knowledge Magazine.</small>
