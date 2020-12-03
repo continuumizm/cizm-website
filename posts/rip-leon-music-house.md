@@ -8,17 +8,15 @@ lead: Many across a number of scenes, particularly drum & bass, mourned at the
   character who worked at the famous Music House cutting studios making
   dubplates for basically every major player and tune in the 90s and beyond.
   Cutting dubplates was a key part of the culture of getting fresh productions
-  into DJs hands to play as quick as possible. Music House was a key part of the
-  DnB scene as it grew and evolved and Leon cutting plates provided support and
-  focus as well as it becoming a storied social meeting point for key
-  scenesters.
+  into DJs hands to play as quick as possible. Started by his father, Music
+  House was a key part of the jungle and drum & bass scene as it grew and
+  evolved with Leon cutting plates giving support and focus as well as it
+  becoming a storied social meeting point for key scenesters.
 summary: Sad news of Music House dubplate cutter Leon Chu passing away. His
   impact on the drum & bass scene and beyond will be remembered.
 category: stories
 tags:
   - dnb
-  - dubplates
-  - ""
 ---
 Jungle/dnb names like Grooverider, DJ Hype, Goldie, DJ Ron, Brockie, Bailey, DJ Die and on and on expressed sadness online. Others like reggae don Sir David Rodigan and grime's Slimzee also mourned showing Leon's impact and importance not limited to just jungle or London. All the soundsystem culture connected scenes, history and generations. Continuumizm.
 
