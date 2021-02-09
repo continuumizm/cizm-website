@@ -25,6 +25,6 @@ In the 90s after recording your own tape off the radio you'd wait for Mixmag to 
 The mix itself is an upfront selection and journey thru range of styles and BPMs she represents. Congrats to Sherelle whose energy and quality we definitely appreciate around here. From strength to strength.
 
 🎵Listen back: 
-<https://www.bbc.co.uk/programmes/m000p90g>
-<https://www.bbc.co.uk/programmes/m000qjjp>
-<https://soundcloud.com/sherelleessentialmix/sherelle-essential-mix-14th-november-2020>
+* <https://www.bbc.co.uk/programmes/m000p90g>
+* <https://www.bbc.co.uk/programmes/m000qjjp>
+* <https://soundcloud.com/sherelleessentialmix/sherelle-essential-mix-14th-november-2020>
