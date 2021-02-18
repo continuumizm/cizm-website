@@ -1,0 +1,13 @@
+---
+layout: layouts/sociallinks.njk
+title: continuumizm • social links
+summary: Links shared from the Continuumizm social profiles.
+---
+<!-- LINKS -->
+<div class="mx-auto text-center">
+  {% for link in sociallinks %}
+    <button type="button" class="btn btn-outline-secondary btn-lg btn-block position-relative">
+      <a href="{{ link.url }}" class="stretched-link">{{ link.text }}</a>
+    </button>
+  {% endfor %}
+</div>
