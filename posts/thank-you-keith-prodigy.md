@@ -10,7 +10,7 @@ category: stories
 tags:
   - prodigy
 ---
-<figure class="figure">
+<figure class="figure col-sm-6 float-md-right">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s been 2 years , <br>We miss you so so much brother , <br>Your light burns bright ,<br>Your energy will never fade , <br>Keep it real<br>Keep it punk rock <br>We live forever ! <br>LH &amp; MAXIM <a href="https://twitter.com/hashtag/weliveforever?src=hash&amp;ref_src=twsrc%5Etfw">#weliveforever</a><br><br>📷 by Jaro Suffner <a href="https://t.co/pcNGs1Okex">pic.twitter.com/pcNGs1Okex</a></p>&mdash; The Prodigy (@the_prodigy) <a href="https://twitter.com/the_prodigy/status/1367412414925398016?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </figure>
 
