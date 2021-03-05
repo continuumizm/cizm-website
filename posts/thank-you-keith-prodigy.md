@@ -16,6 +16,6 @@ tags:
 
 Back in the earlier Prodigy days, as they rose to the top, we of course knew that Liam was a genius and loved the immense sonic brilliance he brought to the mainstream. But The Prodigy also inspired us to *move*. Young and just learning to express ourselves in the dance, the free-flowing rave-y way, we would bust-a-move outside on our own for fun. And there was Keith. He evolved into a renowned frontman and incorporated new elements of attitude and boldness to inspire further. All good things and all good times. 
 
-Years later a few times I've found myself faced in life with being in front of a crowd, on stages, in positions of leadership. Roles that required having presence and being bigger than oneself. I think I can honestly say it was Keith's example and inspiration that helped me draw from inside a little bit more confidence, carefree attitude. That little bit more flare. That little bit more energy. That little bit more fire. 
+Years later a few times I've found myself faced in life in various situations, on stages, being in front of a crowd, speaking, leading etc. Roles that required having presence and being bigger than oneself. I think I can honestly say it was Keith's example and inspiration that helped me draw from inside a little bit more confidence, carefree attitude. That little bit more flare. That little bit more energy. That little bit more fire. 
 
 Thank you Keith.
