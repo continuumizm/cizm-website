@@ -4,8 +4,8 @@ title: Thank You Keith Prodigy
 date: 2021-03-05T04:59:17.561Z
 leadimage: /img/dancing-in-field-keith-prodigy-style-1996-1080x1620-continuumizm.jpg
 lead: Thinking of Keith today.
-summary: On the anniversary of his passing, thinking of Keith Prodigy and his
-  particular, personal impact on my life.
+summary: On the anniversary of his passing, thinking of Keith Prodigy, his
+  evolution in the group and a particular, personal influence on my life.
 category: stories
 tags:
   - prodigy
@@ -19,3 +19,5 @@ Back in the earlier Prodigy days, as they rose to the top, we of course knew tha
 Years later a few times I've found myself faced in life in various situations, on stages, being in front of a crowd, speaking, leading etc. Roles that required having presence and being bigger than oneself. I think I can honestly say it was Keith's example and inspiration that helped me draw from inside a little bit more confidence, carefree attitude. That little bit more flare. That little bit more energy. That little bit more fire. 
 
 Thank you Keith.
+
+<small class="text-secondary">Cover photo: A rare random photo of a mate dancing in a field out back of our school.</small>
