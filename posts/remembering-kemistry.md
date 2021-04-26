@@ -22,4 +22,9 @@ Kemistry played a pivotal role in the early days of dnb/jungle and its evolution
 
 When you hear old sets, mixcds and hear the stories you always wonder about what else could have been but also are so thankful for Kemistry's influence. **Forever part of the beatz in our hearts. RIP.**
 
+Storm put out a lost tape recording to honour the day today. It's Kemistry and her playing a Metalheadz night in 1997 for those techsteppin' Blue Note vibes. Check it: 
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1247970460&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/continuumizm" title="continuumizm" target="_blank" style="color: #cccccc; text-decoration: none;">continuumizm</a> · <a href="https://soundcloud.com/continuumizm/sets/kemistry-storm-metalheadz-1997-apr-19" title="Kemistry &amp; Storm ft MC Flux - Metalheadz @ Leisure Lounge 19/4/1997" target="_blank" style="color: #cccccc; text-decoration: none;">Kemistry &amp; Storm ft MC Flux - Metalheadz @ Leisure Lounge 19/4/1997</a></div>
+
+
 <small class="text-secondary">Cover photo: Kemistry pictured in URB Magazine, July 1999, a photo issue. Photo by Eddie Otchere.</small>
