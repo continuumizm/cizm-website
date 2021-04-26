@@ -14,6 +14,10 @@ tags:
 ---
 It was nothing short of a tragedy when Kemistry was killed in an accident in 1999. It was a shock at the time to the tightly knit drum & bass community and dance music world as a whole. There's been lots of tributes over the years across the scene (and a few really tearing parties) but I also like to reflect with a few magazine artifacts I dug out. 
 
+<figure class="figure float-right col-sm-6 bg-light py-3">
+<img class="figure-img img-fluid" src="/img/kemistry-remembering-mixmag-death-accident-news-story-1999-chrisfizik-pic-2014-54crop-1080x1350-continuumizm.jpg" alt="'Kemistry Dies in Freak Car Accident': Mixmag magazine breaking the news in the following month's issue in 1999">
+    <figcaption class="figure-caption">Mixmag breaking the tragic news in 1999.</figcaption></figure>
+
 Kemistry played a pivotal role in the early days of dnb/jungle and its evolution. From being a key part behind-the-scenes in founding and running the Metalheadz label to DJing at seminal Headz nights at the Blue Note and beyond. Earlier than that while dating a guy called Goldie and working at a record shop it was her that invited him out one night to a party in London called 'Rage' run by godfathers Fabio & Grooverider. The impact of that one connection lead to his introduction to the music and inspiration and the rest was history as far as Goldie was concerned. Between those influences and a famously warm and friendly nature, Kemistry and Storm inspired women DJs in the scene and continue to impact generations today with organizations like EQ50 highlighting and pushing for greater representation.
 
 When you hear old sets, mixcds and hear the stories you always wonder about what else could have been but also are so thankful for Kemistry's influence. RIP.
