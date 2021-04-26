@@ -4,10 +4,10 @@ title: Remembering Kemistry
 subtitle: ""
 date: 2021-04-26T01:38:09.617Z
 leadimage: /img/kemistry-urb-magazine-july-1999-photo-issue-eddie-otchere-chrisfizik-pic-2014-1350x-continuumizm.jpg
-lead: Years on from her untimely death we always take a moment to remember
-  Kemistry and the legacy of her contributions to drum & bass.
-summary: Years on from her untimely death, we always take a moment to remember
-  Kemistry and the legacy of her contributions to drum & bass.
+lead: Years on from her untimely death on this day we always take a moment to
+  remember Kemistry and the legacy of her contributions to drum & bass.
+summary: Years on from her untimely death on this day we always take a moment to
+  remember Kemistry and the legacy of her contributions to drum & bass.
 category: stories
 tags:
   - dnb
