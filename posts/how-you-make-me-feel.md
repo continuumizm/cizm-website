@@ -9,8 +9,8 @@ lead: Three years on from his passing we remember a figure in the drum & bass
   like Marcus Intalex. It's a moment to reflect on his contribution and place in
   history but also the musical journey he was on fueled by years of inspiration
   and love for the music.
-summary: 3 years on from his passing we remember Marcus Intalex and his love for
-  the music represented in a mix of old skool influences from the archives.
+summary: Years on from his passing we remember Marcus Intalex and his love of
+  the music, represented in a mix of old skool influences from the archives.
 category: sounds
 tags:
   - mixes
