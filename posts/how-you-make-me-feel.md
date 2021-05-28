@@ -27,7 +27,7 @@ Take a trip across a small part of history with some expert selections along wit
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/830672599&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-**[Marcus Intalex - '21 Years Mix'](https://soundcloud.com/continuumizm/marcus-intalex-21-years-mix)**
+**[Marcus Intalex - '21 Years Mix'](https://soundcloud.com/continuumizm/marcus-intalex-21-years-mix?in=continuumizm/sets/marcus-intalex-21-years-mixes)**
 
 ```
 Lark - Tendra 
