@@ -9,8 +9,8 @@ lead: Three years on from his passing we remember a figure in the drum & bass
   like Marcus Intalex. It's a moment to reflect on his contribution and place in
   history but also the musical journey he was on fueled by years of inspiration
   and love for the music.
-summary: 3 years on from his passing we remember Marcus Intalex and his love for
-  the music represented in a mix of old skool influences from the archives.
+summary: Years on from his passing we remember Marcus Intalex and his love of
+  the music, represented in a mix of old skool influences from the archives.
 category: sounds
 tags:
   - mixes
@@ -27,7 +27,7 @@ Take a trip across a small part of history with some expert selections along wit
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/830672599&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-**[Marcus Intalex - '21 Years Mix'](https://soundcloud.com/continuumizm/marcus-intalex-21-years-mix)**
+**[Marcus Intalex - '21 Years Mix'](https://soundcloud.com/continuumizm/marcus-intalex-21-years-mix?in=continuumizm/sets/marcus-intalex-21-years-mixes)**
 
 ```
 Lark - Tendra 
@@ -48,7 +48,7 @@ Peshay - Sunray (Ruffage Crew Remix)
 Inta Warriors - Vol 2 
 Dillinja - Deadly Deep Subs
 ```
-**BONUS edit 26jun2020** - Now added from the archives: **['21 Years Mix - CHAPTER 2'](https://soundcloud.com/continuumizm/marcus-intalex-21-years-mix-chapter-2)**
+**BONUS addition 26jun2020** - Now added from the archives: **['21 Years Mix - CHAPTER 2'](https://soundcloud.com/continuumizm/marcus-intalex-21-years-mix-chapter-2?in=continuumizm/sets/marcus-intalex-21-years-mixes)** Check it out.
 
 
 ##### The Music Foundation
