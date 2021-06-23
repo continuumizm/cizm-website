@@ -21,7 +21,7 @@ tags:
     <figcaption class="figure-caption">Video for <em>London In My System</em></figcaption>
 </figure>
 
-Yes, that's none other than Chris Liberator providing vocals for a great 'homage to acid techno' tune featured on Manni Dee's new album of tougher sounds on the Perc Trax label.
+Yes, that's none other than Chris Liberator providing vocals for a great 'homage to acid techno' tune featured on Manni Dee's new album of tougher sounds on the Perc Trax label. The style and pace of the kick drum was immediately eyebrow raising upon hearing it and nice to see the acid techno legend involved.
 
 
 
@@ -31,10 +31,11 @@ Yes, that's none other than Chris Liberator providing vocals for a great 'homage
 Manni chatted with Apogee Joe about the album, scene and life on Rinse FM recently and treated us to a mix from the Liberator DJ himself.
 
 
-<div class="embed-responsive embed-responsive-16by9"><iframe height="166" class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1071812434&color=%23169646&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></div> 
+<div class="embed-responsive embed-responsive-16by9" style="max-height:208px;">
+  <iframe class="embed-responsive-item" style="max-height:166px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1071812434&color=%23169646&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></div> 
 
 
 
 
 
-<small class="text-secondary">Cover Photo: _"Dirty lowlife warehouse squatting acid techno bastards"._ May 2016. Shoreditch, London. By Molly Macindoe.</small>
+<small class="text-secondary">Cover: _"Dirty lowlife warehouse squatting acid techno bastards"._ May 2016. Shoreditch, London. Photo by Molly Macindoe.</small>
