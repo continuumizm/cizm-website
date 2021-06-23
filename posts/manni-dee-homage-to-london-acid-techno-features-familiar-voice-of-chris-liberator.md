@@ -14,15 +14,16 @@ category: sounds
 tags:
   - acidtechno
 ---
+<figure class="figure col-md-6 float-lg-right">
+    <div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/d2TCU6LRTmE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+    </div>
+    <figcaption class="figure-caption">Video for <em>London In My System</em></figcaption>
+</figure>
+
 Yes, that's none other than Chris Liberator providing vocals for a great 'homage to acid techno' tune featured on Manni Dee's new album of tougher sounds on the Perc Trax label.
 
 
-Video for _London In My System_:
-
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/d2TCU6LRTmE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-</div>
 
 
 
@@ -30,9 +31,10 @@ Video for _London In My System_:
 Manni chatted with Apogee Joe about the album, scene and life on Rinse FM recently and treated us to a mix from the Liberator DJ himself.
 
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1071812434&color=%23169646&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></div> 
+<div class="embed-responsive embed-responsive-16by9"><iframe height="166" class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1071812434&color=%23169646&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></div> 
 
 
 
 
 
+<small class="text-secondary">Cover Photo: _"Dirty lowlife warehouse squatting acid techno bastards"._ May 2016. Shoreditch, London. By Molly Macindoe.</small>
