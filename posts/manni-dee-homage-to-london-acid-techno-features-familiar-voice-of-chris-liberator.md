@@ -3,7 +3,7 @@ layout: post
 title: Manni Dee Homage to London Acid Techno Features Familiar Voice of Chris
   Liberator
 date: 2021-06-21T01:48:31.267Z
-leadimage: /img/dirty-lowlife-warehouse-squatting-acid-techno-bastards-molly_macindoe-b-boy_on_roof-shoreditch-may2016-googleartsculture-rip-igcrop.jpg
+leadimage: /img/dirty-lowlife-warehouse-squatting-acid-techno-bastards-molly_macindoe-b-boy_on_roof-shoreditch-may2016-googleartsculture-rip-igcrop-comp.jpg
 lead: '"Love Chicago. Love Detroit. But most of all, I love London", a familiar
   voice exclaims over a pumping track.'
 summary: Chris Liberator did a vocal for acid techno homage on Manni Dee's new
