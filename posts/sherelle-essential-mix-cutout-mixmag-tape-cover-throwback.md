@@ -28,3 +28,8 @@ The mix itself is an upfront selection and journey thru range of styles and BPMs
 * <https://www.bbc.co.uk/programmes/m000p90g>
 * <https://www.bbc.co.uk/programmes/m000qjjp>
 * <https://soundcloud.com/sherelleessentialmix/sherelle-essential-mix-14th-november-2020>
+
+<div class="embed-responsive embed-responsive-16by9 pt-2" style="max-height:208px;">
+  <iframe class="embed-responsive-item" style="max-height:166px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/981823765&color=%238a9fc3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" seamless></iframe>
+</div> 
+
