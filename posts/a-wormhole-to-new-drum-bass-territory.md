@@ -13,7 +13,9 @@ scene at the time, lots going on but the beats were evolving/ changing. inspirat
 
 Side caption: Muzik Magazine Album of the Month honours, December 1998.
 
-Deciding to put the tunes out on their own label Virus Recordings, the sounds started to infiltrate sets all thru 1998 with the first 4-5 releases appearing before the LP even ddropped. All were notable and brought both a future sound to the masses but also kept the beats and bass strong so that dancefloors would keep moving forward along with the sounds. Optical posted an amazing photo of some dubplates from the famous cutting rooms of Music House where each plate is a notable huge tune from Virus or the forthcoming Wormhole album.
+Deciding to put the tunes out on their own label Virus Recordings, the sounds started to infiltrate sets all thru 1998 with the first 4-5 releases appearing before the LP even ddropped. All were notable and brought both a future sound to the masses but also kept the beats and bass strong so that dancefloors would keep moving. Its popularity coupled with continued rise of dnb around the world meant this was the sound alot of people heard as they got into the music and it inspired alot of new producers. Eventually the phrase was coined to desribe this subgenre of the scene years later as 'neurofunk'.
+
+ Optical posted an amazing photo of some dubplates from the famous cutting rooms of Music House where each plate is a notable huge tune from Virus or the forthcoming Wormhole album.
 
 Caption: Virus dubs: love love love this photo showing a selection of Music House dubplates featuring a number of fresh Virus tunes of the time, all significant and making their way into the boxes and sets of DJs the world over. Iconic.
 
