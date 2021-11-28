@@ -2,7 +2,7 @@
 layout: post
 title: A Wormhole to new Drum & Bass territory
 subtitle: Ed Rush & Optical's landmark Virus LP in 1998
-date: 2021-11-27T23:12:17.040Z
+date: 2021-11-28T23:14:57.348Z
 leadimage: /img/ed-rush-optical-wemf-2001-by-visualbass-toravepics-on-continuumizm-1080x-comp.jpg
 lead: Released in late November 1998, Ed Rush and Optical's <em>Wormhole</em>
   album solidified a charge into a new sound for drum & bass music that had been
@@ -33,6 +33,6 @@ Deciding to put many of the tunes out on their own label Virus Recordings the re
 <div class="embed-responsive embed-responsive-16by9" style="max-height:208px;">
   <iframe class="embed-responsive-item" style="max-height:166px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/142522361&color=%238a9fc3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ethereal94/grooverider-radio-1-fm-31st?in=continuumizm/sets/likes" title="Grooverider with Ed Rush &amp; Optical - Radio 1 FM - 31st October 1998" target="_blank" style="color: #cccccc; text-decoration: none;">Grooverider with Ed Rush &amp; Optical - Radio 1 FM - 31st October 1998</a></div></div> 
 
-A month before the album dropped Ed Rush and Optical made an appearance on BBC Radio 1 with Grooverider. It features a mix from the duo and also a chat about the album with both Grooverider and a phone-in session with callers asking questions. Grooverider had also been working with Optical in the studio engineering his own album <em>Mysteries of Funk</em> the same year and regularly pushing these new DnB sounds in his sets and via his Prototype Recordings label as well. It's a nice trip down memory lane and also a snapshot of the sounds evolving out of this exciting time in the music that were pushed to the fore on the landmark <em>Wormhole</em> album.
+A month before the album dropped Ed Rush and Optical made an appearance on BBC Radio 1 with Grooverider. The show features a mix from the duo and also a chat about the album with both Grooverider and a phone-in session with callers asking questions. Grooverider had also been working with Optical in the studio engineering his own album <em>Mysteries of Funk</em> the same year and regularly pushing these new DnB sounds in his sets and via his Prototype Recordings label. It's a nice trip down memory lane and also a snapshot of the sounds evolving out of this exciting time in the music that were pushed to the fore on the landmark <em>Wormhole</em> album. Have a listen!
 
 <small class="text-secondary">[Cover photo](/img/ed-rush-optical-WEMF-2001-by-visualbass-toravepics-on-continuumizm-1080x-comp.jpg): Ed Rush & Optical djing at World Electronic Music Festival (WEMF), outside Toronto, July 2001. Captured by Visualbass on TOravepics.</small>
