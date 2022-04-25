@@ -23,7 +23,7 @@ Kemistry played a pivotal role in the early days of dnb/jungle and its evolution
 Storm put out a lost tape recording to honour the day today. It's Kemistry and her playing a Metalheadz night in 1997 for those techsteppin' Blue Note vibes. Check it: 
 <https://soundcloud.com/continuumizm/sets/kemistry-storm-metalheadz-1997-apr-19>
 
-<div class="embed-responsive embed-responsive-16by9" style="max-height:308px;">
+<div class="embed-responsive embed-responsive-1by1" style="max-height:308px;">
   <iframe class="embed-responsive-item" style="max-height:308px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1247970460&color=%238a9fc3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></div> 
 
 
