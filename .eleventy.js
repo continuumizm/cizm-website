@@ -49,11 +49,6 @@ module.exports = function(eleventyConfig) {
     return setofposts;
   });
 
-  eleventyConfig.addShortcode("addGenerator", () => {
-    return `<meta name="generator" content="Eleventy - 11ty - https://11ty.dev - v${require(`@11ty/eleventy/package.json`).version}">`;
-  });
-  
-
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
