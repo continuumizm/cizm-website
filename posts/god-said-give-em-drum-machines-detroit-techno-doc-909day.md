@@ -27,7 +27,7 @@ So on #909Day here's to the drum machine and Black techno culture from Detroit! 
 Check out the trailer:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LZ2_h3L7rqg" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/260015019?h=bd3e8a4cee&byline=0&portrait=0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <small class="text-secondary">Cover photo: God Said Give 'Em Drum Machines film poster from a recent livestream supporting Black Lives Matter!</small>
