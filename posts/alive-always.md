@@ -4,8 +4,8 @@ title: Alive Always
 subtitle: Daft Punk live PA from 1997 Daftendirektour
 date: 2022-02-23T02:38:09.061Z
 leadimage: /img/daftpunk-alive1997-stickers-alivealwaysedit-01-01-864x1080-flyer-continuumizm.jpg
-lead: A year after their farewell, on 'twosday' at 22:22 GMT, Daft Punk treated
-  us to footage from their 1997 Daftendirektour live PA in LA.
+lead: A year after their farewell, on 'twosday' February 22nd at 22:22 GMT, Daft
+  Punk treated us to footage from their 1997 Daftendirektour live PA in LA.
 summary: Daft Punk treated us to footage from their 1997 Daftendirektour live PA
   in LA on the anniversary of their 'retirement'. An amazing recording from the
   vaults with all the Homework favourites.
