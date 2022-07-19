@@ -16,7 +16,7 @@ tags:
 ---
 <figure class="figure float-md-right col-sm-4 py-3"><img class="figure-img img-fluid" src="/img/daft-punk-daftendirektour-97-paris-ticket-edbangerrecords-edit-2022may19-crop-1080x1350-continuumizm.jpg" alt=""></figure><p>Got us Rollin' & Scratchin' and 909 jackin' Roulé knob-twiddlin' filter house musique Homeworkin' all over again (with no helmets!).</p>
 
-<p>Always remember in 1997, underground dance music starting to make waves in America and media taking notice, Daft Punk did an interview on CBC TV in Toronto. We were excited to see any coverage on mainstream tv, and here was this scrawny French duo, no helmets, who would blow us away with Homework shortly after. The live PA is excellent, a full set from them with lots of drum machine and sampler improvisation for that raw disco house sound they took to the masses. Check the live version of *Teachers* with them reading the names through a vocoder/synth. Classic.</p>
+Always remember in 1997, underground dance music starting to make waves in America and media taking notice, Daft Punk did an interview on CBC TV in Toronto. We were excited to see any coverage on mainstream tv, and here was this scrawny French duo, no helmets, who would blow us away with Homework shortly after. The live PA is excellent, a full set from them with lots of drum machine and sampler improvisation for that raw disco house sound they took to the masses. Check the live version of *Teachers* with them reading the names through a vocoder/synth. Classic.
 
 ### Of course someone recorded it
 
