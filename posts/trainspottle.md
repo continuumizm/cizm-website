@@ -2,7 +2,7 @@
 layout: post
 title: Trainspottle
 subtitle: Shall we play a game trainspotting crew?
-date: 2022-07-22T03:35:46.193Z
+date: 2022-07-22T04:35:22.260Z
 leadimage: /img/trainspottle-whitelabeledit-continuumizm.jpg
 lead: While enjoying the viral game sensation Heardle, guessing its myriad of
   pop tunes from the ages, one couldn't help but wish it could have some more
