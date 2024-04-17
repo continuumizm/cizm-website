@@ -89,6 +89,6 @@ Shy FX - Funksta
 (Shy FX - This Style VIP)
 Nuyorican Soul - It's Alright, I Feel It! (Roni Size remix)`</pre>
 
-On our daily blind test game, [Trainspottle](https://www.continuumizm.com/posts/trainspottle/), a number of recent rounds have featured tunes from this tracklist! Check out our recap videos for more insights into the music. Some recent selections in late February were also in honour of the main man, the reason this show gets referenced so much and holds a place in our hearts, MC Skibadee, who we sadly lost a few years ago. He’ll always be remembered for contributions to the culture like this. RIP Skiba.
+On our daily blind test game, \[Trainspottle](https://www.continuumizm.com/posts/trainspottle/), a number of recent rounds have featured tunes from this tracklist! Check out our recap videos for more insights into the music. Some recent selections in late February were also in honour of the main man, the reason this show gets referenced so much and holds a place in our hearts, MC Skibadee, who we sadly lost a few years ago. He’ll always be remembered for contributions to the culture like this. RIP Skiba.
 
 <small class="text-secondary">Cover photo: home recorded cassette tape labelled with pencil: <em>Prophecy CIUT 04/12/98 Shy Fx Skibadee Fearless</em></small>
