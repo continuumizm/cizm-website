@@ -61,10 +61,8 @@ What made the show special, beyond the stars absolutely smashing it, was how it 
 
 The Prophecy continues airing to this day and is one of the longest-running drum & bass radio shows in the world. They even rebroadcast this special show to mark its 26th anniversary this year! With all this talk about the classic session have a listen to get the experience!
 
-<div class="embed-responsive embed-responsive-16by9 pb-3">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?si=uEEo5gVnCf9GptFs&amp;list=PL38EV6GxMnzw4qlvp1gTiZMnDegCadM5n" title="YouTube video playlist of Side A and B of tapes recorded by JungleArchive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9 mb-3"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?si=uEEo5gVnCf9GptFs&amp;list=PL38EV6GxMnzw4qlvp1gTiZMnDegCadM5n" title="YouTube video playlist of Side A and B of tapes recorded by JungleArchive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<﻿div class="py-3">
 ##### Tracklist
 
     (Intro) 
@@ -89,7 +87,6 @@ The Prophecy continues airing to this day and is one of the longest-running drum
     Shy FX - Funksta
     (Shy FX - This Style VIP)
     Nuyorican Soul - It's Alright, I Feel It! (Roni Size remix)
-<﻿/div>
 
 On our daily blind test game, [Trainspottle](https://www.continuumizm.com/posts/trainspottle/), a number of recent rounds have featured tunes from this tracklist! Check out our recap videos for more insights into the music. Some recent selections in late February were also in honour of the main man, the reason this show gets referenced so much and holds a place in our hearts, MC Skibadee, who we sadly lost a few years ago. He’ll always be remembered for contributions to the culture like this. RIP Skiba.
 
