@@ -3,7 +3,7 @@ layout: post
 title: That Night on Toronto Jungle Radio
 subtitle: When Shy FX, Skibadee & Fearless Broadcast the Culture to the City and Beyond
 date: 2024-04-17T01:41:48.313Z
-leadimage: /img/that-night-on-toronto-jungle-radio-prophecy-tape-continuumizm-916-site.jpg
+leadimage: /img/that-night-on-toronto-jungle-radio-prophecy-tape-shy-fx-skibadee-fearless-1998-dnb-continuumizm-916-site.jpg
 lead: On a Sunday night in mid-to-late 90s Toronto and surrounding areas whether
   coming down from a weekend partying or keeping the party going with the latest
   jungle/dnb beats, tuning into The Prophecy radio show was a ritual. A presence
