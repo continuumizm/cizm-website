@@ -4,8 +4,7 @@ title: That Night on Toronto Jungle Radio
 subtitle: When Shy FX, Skibadee & Fearless Broadcast the Culture to the City and Beyond
 date: 2024-04-17T01:41:48.313Z
 leadimage: /img/that-night-on-toronto-jungle-radio-prophecy-tape-shy-fx-skibadee-fearless-1998-dnb-continuumizm-45-site.jpg
-lead: >-
-  On a Sunday night in mid-to-late 90s Toronto and surrounding areas whether
+lead: On a Sunday night in mid-to-late 90s Toronto and surrounding areas whether
   coming down from a weekend partying or keeping the party going with the latest
   jungle/dnb beats, tuning into The Prophecy radio show was a ritual. A presence
   on the local college radio dial from 1994 with its main base of operations
@@ -17,10 +16,20 @@ lead: >-
   predecessors and the independent, pirate radio spirit of the UK scene, The
   Prophecy tracked with the steady growth of the rave scene and matched its
   jungle focus to the sound’s strong local popularity in Toronto and spread
-  across the continent.
-
-
-  One Sunday night in April of 1998, three DJ & MC stars of the UK scene, DJ/producer Shy FX and MCs Skibadee and Fearless made an appearance on the show playing a live set to match the live experience of their rave performance in the city the night prior. The impromptu session was a surprise to local listeners and was broadcast all over exposing ears and hearts to an exciting set that captured the music and scene locally & globally at the time. It was a memorable set, both because it was preserved in posterity on hundreds of bedroom-recorded cassette tapes around the area, and because it gave a glimpse of a next level radio experience, harking to the legendary quality of the pirate radio stations in the music’s UK origins, to the local dial of Toronto’s rapidly expanding homegrown scene. A lot of things came together rather perfectly in the show to make for a significant moment in the long-running history of The Prophecy and a notable part of Toronto drum & bass history.
+  across the continent.<br><br>One Sunday night in April of 1998, three DJ & MC
+  stars of the UK scene, DJ/producer Shy FX and MCs Skibadee and Fearless made
+  an appearance on the show playing a live set to match the live experience of
+  their rave performance in the city the night prior. The impromptu session was
+  a surprise to local listeners and was broadcast all over exposing ears and
+  hearts to an exciting set that captured the music and scene locally & globally
+  at the time. It was a memorable set, both because it was preserved in
+  posterity on hundreds of bedroom-recorded cassette tapes around the area, and
+  because it gave a glimpse of a next level radio experience, harking to the
+  legendary quality of the pirate radio stations in the music’s UK origins, to
+  the local dial of Toronto’s rapidly expanding homegrown scene. A lot of things
+  came together rather perfectly in the show to make for a significant moment in
+  the long-running history of The Prophecy and a notable part of Toronto drum &
+  bass history.
 summary: One Sunday night in Toronto three stars of the UK drum & bass scene
   made an appearance on local radio show The Prophecy that went down as one of
   the most exciting sets ever, a snapshot of the music and scene both globally
@@ -42,7 +51,7 @@ One of the aspects that made the show so special was because it was superstars o
 
 It goes without saying that the musical selection is the main attraction of the show with Shy FX spinning an energetic set of tunes that is a nice snapshot of the rich, varied scene at the time and his place in it. While maybe known for his years of successes with jump-up jungle styles, this set was about Shy FX showing upfront, current sounds. The scene’s trend towards dark, two-step drum & bass styles had perhaps left him looking for a place in the evolving sounds and he came in ‘98 ready to show the scene he was finding that place and adapting with his own take. The first tune out the gate is what we’re talking about: *Bambaata*. A tune that caught the scene’s attention for its staunch tribal, jungle feel, a fresh reminder of the musical history of drum & bass. Sending a message that Shy FX was strong as ever it was an unbeatable tune that would become a huge hit over the rest of the year. Alongside some more of his own productions that were new & unheard there’s a lot of representation of different sides of drum & bass from jump-up to jazzy to burgeoning techy neurofunk sounds. The culture of dubplate exclusivity playing a role also with numerous unreleased numbers appearing and making local DJs drool. One tune by Gang Related, aka DJ Krust, *J.A.M*, features at a prominent moment in Skibadee & Fearless’ performance, but was only available on dub at the time and didn’t get released for 15 years! Popular tunes from the likes of Ed Rush & Optical, while not maybe the style Shy FX was known for, also appear as he clearly understood their up & coming value. The duo’s sound would be part of a massively popular movement in the next few years. The retro-tinged jazz’n’bass styles of Peshay and Roni Size/Reprazent feature as well, an example of the strong creative spectrum at the time, and is matched by the MCs flowing over top all of it with ease, a testament to their skill as well as the different musical styles drum & bass could incorporate into its template. With the rich pool of tunes to select from including fresh dubs ultimately Shy FX’s talent as an entertaining DJ experienced in moving dancefloors shines through.
 
-<﻿figure class="figure col-sm-6 float-md-right"><a href="/img/skibadee-fearless-shyfx-toronto-1998-twitter-therealskibz-edit-45crop-continuumizm-site.jpg" title="(tap for big)"><img class="figure-img img-fluid" alt="(L-R) Shy FX, Fearless, and Skibadee in Toronto the day after the show. (twitter/therealskibz)" src="/img/skibadee-fearless-shyfx-toronto-1998-twitter-therealskibz-edit-45crop-continuumizm-site.jpg" loading="lazy"><figcaption class="figure-caption"></figcaption></figure>
+<﻿figure class="figure col-sm-6 float-md-right"><a href="/img/skibadee-fearless-shyfx-toronto-1998-twitter-therealskibz-edit-45crop-continuumizm-site.jpg" title="(tap for big)"><img class="figure-img img-fluid" alt="Grainy film photograph of Shy FX and MCs Fearless and Skibadee taken in April 1998. Shy and Skibadee in foreground red and blue coloured Stussy college style jackets. Shy with cool expression. Skibadee smiling, hand outstretched in front of Shy with fingers pointing and palming a lighter. Fearless in glasses and a black hoodie behind them hand in air posing cooly. The base of Toronto's CN Tower faintly visible in the background. Photo by Skibadee posted to his twitter account in 2018." src="/img/skibadee-fearless-shyfx-toronto-1998-twitter-therealskibz-edit-45crop-continuumizm-site.jpg" loading="lazy"><figcaption class="figure-caption">(L-R) Shy FX, Fearless, and Skibadee in Toronto the day after the show. (twitter/therealskibz)</figcaption></figure>
 
 # Connecting with the local scene
 
@@ -57,7 +66,8 @@ The Prophecy continues airing to this day and is one of the longest-running drum
 
 ### Tracklist:
 
-<﻿pre><code>Intro
+<﻿pre><code>
+Intro
 Shy FX - Bambaata
 Mask - Splurt
 Undercover Agent - Full Metal Jacket
@@ -78,7 +88,8 @@ Shy FX - Pandora's Box
 Roni Size/Reprazent - Jazz
 Shy FX - Funksta
 (Shy FX - This Style VIP)
-Nuyorican Soul - It's Alright, I Feel It! (Roni Size remix)<﻿/code></pre>
+Nuyorican Soul - It's Alright, I Feel It! (Roni Size remix)
+<﻿/code></pre>
 
 On our daily blind test game, [Trainspottle](https://www.continuumizm.com/posts/trainspottle/), a number of recent rounds have featured tunes from this tracklist! Check out our recap videos for more insights into the music. Some recent selections in late February were also in honour of the main man, the reason this show gets referenced so much and holds a place in our hearts, MC Skibadee, who we sadly lost a few years ago. He’ll always be remembered for contributions to the culture like this. RIP Skiba.
 
