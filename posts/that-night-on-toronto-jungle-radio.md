@@ -51,7 +51,7 @@ One of the aspects that made the show so special was because it was superstars o
 
 It goes without saying that the musical selection is the main attraction of the show with Shy FX spinning an energetic set of tunes that is a nice snapshot of the rich, varied scene at the time and his place in it. While maybe known for his years of successes with jump-up jungle styles, this set was about Shy FX showing upfront, current sounds. The scene’s trend towards dark, two-step drum & bass styles had perhaps left him looking for a place in the evolving sounds and he came in ‘98 ready to show the scene he was finding that place and adapting with his own take. The first tune out the gate is what we’re talking about: *Bambaata*. A tune that caught the scene’s attention for its staunch tribal, jungle feel, a fresh reminder of the musical history of drum & bass. Sending a message that Shy FX was strong as ever it was an unbeatable tune that would become a huge hit over the rest of the year. Alongside some more of his own productions that were new & unheard there’s a lot of representation of different sides of drum & bass from jump-up to jazzy to burgeoning techy neurofunk sounds. The culture of dubplate exclusivity playing a role also with numerous unreleased numbers appearing and making local DJs drool. One tune by Gang Related, aka DJ Krust, *J.A.M*, features at a prominent moment in Skibadee & Fearless’ performance, but was only available on dub at the time and didn’t get released for 15 years! Popular tunes from the likes of Ed Rush & Optical, while not maybe the style Shy FX was known for, also appear as he clearly understood their up & coming value. The duo’s sound would be part of a massively popular movement in the next few years. The retro-tinged jazz’n’bass styles of Peshay and Roni Size/Reprazent feature as well, an example of the strong creative spectrum at the time, and is matched by the MCs flowing over top all of it with ease, a testament to their skill as well as the different musical styles drum & bass could incorporate into its template. With the rich pool of tunes to select from including fresh dubs ultimately Shy FX’s talent as an entertaining DJ experienced in moving dancefloors shines through.
 
-<﻿figure class="figure col-sm-6 float-md-right"><a href="/img/skibadee-fearless-shyfx-toronto-1998-twitter-therealskibz-edit-45crop-continuumizm-site.jpg" title="(tap for big)"><img class="figure-img img-fluid" alt="Grainy film photograph of Shy FX and MCs Fearless and Skibadee taken in April 1998. Shy and Skibadee in foreground red and blue coloured Stussy college style jackets. Shy with cool expression. Skibadee smiling, hand outstretched in front of Shy with fingers pointing and palming a lighter. Fearless in glasses and a black hoodie behind them hand in air posing cooly. The base of Toronto's CN Tower faintly visible in the background. Photo by Skibadee posted to his twitter account in 2018." src="/img/skibadee-fearless-shyfx-toronto-1998-twitter-therealskibz-edit-45crop-continuumizm-site.jpg" loading="lazy"><figcaption class="figure-caption">(L-R) Shy FX, Fearless, and Skibadee in Toronto the day after the show. (twitter/therealskibz)</figcaption></figure>
+<﻿figure class="figure col-sm-6 float-md-right"><a href="/img/skibadee-fearless-shyfx-toronto-1998-twitter-therealskibz-edit-45crop-continuumizm-site.jpg" title="(tap for big)"><img class="figure-img img-fluid" alt="Grainy film photograph of Shy FX and MCs Fearless and Skibadee taken in April 1998. Shy and Skibadee in foreground red and blue coloured Stussy college style jackets. Shy with cool expression. Skibadee smiling, hand outstretched in front of Shy with fingers pointing and palming a lighter. Fearless in glasses and a black hoodie behind them hand in air posing cooly. The base of Toronto's CN Tower faintly visible in the background. Photo by Skibadee posted to his twitter account in 2018." src="/img/skibadee-fearless-shyfx-toronto-1998-twitter-therealskibz-edit-45crop-continuumizm-site.jpg" loading="lazy"></a><figcaption class="figure-caption">(L-R) Shy FX, Fearless, and Skibadee in Toronto the day after the show. (twitter/therealskibz)</figcaption></figure>
 
 ### Connecting with the local scene
 
@@ -66,29 +66,29 @@ The Prophecy continues airing to this day and is one of the longest-running drum
 
 #### Tracklist:
 
-<﻿pre>`Intro
-Shy FX - Bambaata
-Mask - Splurt
-Undercover Agent - Full Metal Jacket
-Shimon & Andy C - Live Line
-45 Roller - Stomp!
-Roni Size/Reprazent - Hi-Potent
-Optical - To Shape The Future (Remix)
-Mask - Mad Professor
-Peshay - Miles From Home
-Gang Related - J.A.M
-Peshay - Switch
-Mampi Swift - 2nd Strike
-Trace - Sonar
-Ed Rush & Optical - Satellites
-Undercover Agent - Cosmic
-3 Way - Replay
-Shy FX - Pandora's Box
-Roni Size/Reprazent - Jazz
-Shy FX - Funksta
-(Shy FX - This Style VIP)
-Nuyorican Soul - It's Alright, I Feel It! (Roni Size remix)`</pre>
+    (Intro) 
+    Shy FX - Bambaata
+    Mask - Splurt
+    Undercover Agent - Full Metal Jacket
+    Shimon & Andy C - Live Line
+    45 Roller - Stomp!
+    Roni Size/Reprazent - Hi-Potent
+    Optical - To Shape The Future (Remix)
+    Mask - Mad Professor
+    Peshay - Miles From Home
+    Gang Related - J.A.M
+    Peshay - Switch
+    Mampi Swift - 2nd Strike
+    Trace - Sonar
+    Ed Rush & Optical - Satellites
+    Undercover Agent - Cosmic
+    3 Way - Replay
+    Shy FX - Pandora's Box
+    Roni Size/Reprazent - Jazz
+    Shy FX - Funksta
+    (Shy FX - This Style VIP)
+    Nuyorican Soul - It's Alright, I Feel It! (Roni Size remix)
 
-On our daily blind test game, \[Trainspottle](https://www.continuumizm.com/posts/trainspottle/), a number of recent rounds have featured tunes from this tracklist! Check out our recap videos for more insights into the music. Some recent selections in late February were also in honour of the main man, the reason this show gets referenced so much and holds a place in our hearts, MC Skibadee, who we sadly lost a few years ago. He’ll always be remembered for contributions to the culture like this. RIP Skiba.
+On our daily blind test game, [Trainspottle](https://www.continuumizm.com/posts/trainspottle/), a number of recent rounds have featured tunes from this tracklist! Check out our recap videos for more insights into the music. Some recent selections in late February were also in honour of the main man, the reason this show gets referenced so much and holds a place in our hearts, MC Skibadee, who we sadly lost a few years ago. He’ll always be remembered for contributions to the culture like this. RIP Skiba.
 
 <small class="text-secondary">Cover photo: home recorded cassette tape labelled with pencil: <em>Prophecy CIUT 04/12/98 Shy Fx Skibadee Fearless</em></small>
