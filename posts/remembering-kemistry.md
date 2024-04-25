@@ -21,10 +21,12 @@ It was nothing short of a tragedy when Kemistry was killed in an accident in 199
 
 Kemistry played a pivotal role in the early days of dnb/jungle and its evolution. From being a key part behind-the-scenes in founding and running the Metalheadz label to DJing at seminal Headz nights at the Blue Note and beyond. Earlier than that while dating a guy called Goldie and working at a record shop it was her that invited him out one night to a party in London called 'Rage' run by godfathers Fabio & Grooverider. The impact of that one connection lead to his introduction to the music and inspiration and the rest was history as far as Goldie was concerned. Between those influences and a famously warm and friendly nature, Kemistry and Storm inspired women DJs in the scene and continue to impact generations today with organizations like EQ50 highlighting and pushing for greater representation.
 
-Storm put out a lost tape recording to honour the day today. It's Kemistry and her playing a Metalheadz night in 1997 for those techsteppin' Blue Note vibes. Check it: 
+*Update 2024:*
+
+Storm put out a recording to honour the day today. It's Kemistry and her playing Depot Tübingen in 1997 (would go on to become the *Pressure* nights) for those techsteppin' Blue Note vibes. Check it: 
 
 <div class="embed-responsive embed-responsive-16by9 mb-3" style="max-height:315px;">
-  <iframe class="embed-responsive-item" style="max-height:308px;" src="https://www.youtube.com/embed/-X-dlnU5jG8?si=YRESvJds3EXsVFhd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div> 
+  <iframe class="embed-responsive-item" style="max-height:308px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1807686324&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div> 
 
 
 When you hear old sets, mixcds and hear the stories you always wonder about what else could have been but also are so thankful for Kemistry's influence. **Forever part of the beatz in our hearts. RIP.**
