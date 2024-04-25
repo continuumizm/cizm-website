@@ -78,7 +78,7 @@
 
     <div id="sidebar">
         <div style="
-            background: url({% if leadimage %}{{ leadimage }}{% else %}{{metadata.leadimage_default}}{% endif %}) center left;
+            background: url({% if leadimage %}{{ leadimage }}{% else %}{{metadata.leadimage_default}}{% endif %}) {% if leadimagepos %}{{leadimagepos}}{% else %}center left{% endif %};
             background-size: cover;
             position:sticky;
             top:0;
