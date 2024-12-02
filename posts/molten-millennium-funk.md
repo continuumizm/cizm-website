@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Molten Millennium Funk
-subtitle: Ram Trilogy's Milestone Molten Beats LP
+subtitle: Ram Trilogy's Milestone <em>Molten Beats</em> LP
 date: 2024-12-01T03:49:54.506Z
 lead: After a series of vinyl 'chapter' releases thru 1998 presenting Ram
   Records artists, Ant Miles, Andy C, and Shimon as a joint act, the <em>Ram
