@@ -14,8 +14,8 @@ lead: After a series of vinyl 'chapter' releases thru 1998 presenting Ram
 summary: >
   In a meeting of the minds Ant Miles, Andy C & Shimon combining their skills to
   produce as Ram Trilogy made a memorable mark on drum & bass history with the
-  Molten Beats LP. Look back at the landmark and listen to the mix that came
-  with the CD album capturing it's raw molten funk in the mix by Andy C.
+  Molten Beats LP in 1999. Look back at the landmark and listen to the mix CD
+  album capturing it's raw molten funk mixed by Andy C.
 category: sounds
 tags:
   - dnb
@@ -53,4 +53,4 @@ On the anniversary of its release a good way to revisit the milestone album is b
 13. Chase Scene
 ```
 
-<small class="text-secondary">Cover photo: Launch poster for <em>Molten Beats</em>
+<small class="text-secondary">Cover photo: Promotional launch poster for <em>Molten Beats</em> with release date of 15th November 1999.
