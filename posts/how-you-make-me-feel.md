@@ -46,7 +46,7 @@ Low Key Movements - Ear Drums
 ??
 FBD Project - The Core 
 J Majik - Sunray (Rufige Cru Remix) 
-Inta Warriors - Dreams of Heaven (The Chance Mix) 
+Inta Warriors - Dreams of Heaven (The Silence Mix) 
 Dillinja - Deadly Deep Subs
 ```
 **BONUS addition 26jun2020** - Now added from the archives: **['21 Years Mix - CHAPTER 2'](https://soundcloud.com/continuumizm/marcus-intalex-21-years-mix-chapter-2?in=continuumizm/sets/marcus-intalex-21-years-mixes)** Check it out.
